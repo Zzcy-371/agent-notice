@@ -1,3 +1,19 @@
 {
-  "rss_sources": []
+  "rss_sources": [
+    {
+      "name": "arXiv AI",
+      "category": "Research and engineering",
+      "url": "https://rss.arxiv.org/rss/cs.AI"
+    },
+    {
+      "name": "Hacker News",
+      "category": "Research and engineering",
+      "url": "https://hnrss.org/newest?q=agent"
+    },
+    {
+      "name": "OpenAI",
+      "category": "Official updates",
+      "url": "https://openai.com/news/rss.xml"
+    }
+  ]
 }
