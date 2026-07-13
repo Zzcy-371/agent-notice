@@ -15,6 +15,9 @@ _REPORT_DAY = timedelta(days=1)
 
 def select_items(items: Iterable[Item], now: datetime, limit: int = 15) -> list[Item]:
     """Return recent, relevant items ranked for a daily report."""
+    if limit <= 0:
+        return []
+
     cutoff = now - _REPORT_DAY
     relevant_items = [
         item

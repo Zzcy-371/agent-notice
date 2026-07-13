@@ -21,3 +21,11 @@
 - Confirmed filtering accepts any `Iterable[Item]`, evaluates title and summary case-insensitively, and retains items published within the inclusive 24-hour report window.
 - Confirmed ranking is GitHub, research, official; then descending score; then newest publication time. Deduplication uses the normalized `Item.key` and occurs after ranking so the best-ranked duplicate is retained.
 - No unrelated files were changed.
+
+## Zero-limit follow-up fix
+
+- Added a regression test proving both zero and negative selection limits return no items.
+- RED: `python -m pytest tests/test_filtering.py` produced the expected failure because `limit=0` returned an item.
+- GREEN: `python -m pytest tests/test_filtering.py` passed with 6 tests; `python -m pytest` passed with 8 tests.
+- Added an early `limit <= 0` return in `select_items`.
+- Commit: `fix: honor zero selection limit`.

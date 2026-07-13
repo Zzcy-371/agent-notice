@@ -58,6 +58,13 @@ def test_select_items_respects_limit_after_sorting() -> None:
     assert select_items([older, newest], NOW, limit=1) == [newest]
 
 
+def test_select_items_returns_empty_list_for_nonpositive_limit() -> None:
+    item = make_item("agent repo")
+
+    assert select_items([item], NOW, limit=0) == []
+    assert select_items([item], NOW, limit=-1) == []
+
+
 def test_select_items_excludes_items_older_than_report_day_window() -> None:
     stale = make_item("agent yesterday", published_at=NOW - timedelta(days=1, seconds=1))
     current = make_item("agent today", published_at=NOW - timedelta(days=1))
