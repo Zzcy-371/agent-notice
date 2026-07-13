@@ -2,3 +2,4 @@
 .superpowers/sdd/
 __pycache__/
 *.py[cod]
+*.egg-info/
