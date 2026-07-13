@@ -1,0 +1,16 @@
+[project]
+name = "agent-notice"
+version = "0.1.0"
+description = "Daily Agent technology intelligence notices"
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0.11",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
