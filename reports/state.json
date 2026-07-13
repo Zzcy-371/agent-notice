@@ -22,5 +22,29 @@
   "https://github.com/anthropics/skills": {
     "score": 160725,
     "fingerprint": "a314cbfb2e30e756de68623f0c29e97af5001d3bad01f181c09954fe0c1f5e90"
+  },
+  "https://github.com/langflow-ai/langflow": {
+    "score": 151802,
+    "fingerprint": "5dcaca0bd6239b0127be99e2780720a9c273476ef5704512393c11f9c50b51be"
+  },
+  "https://github.com/langgenius/dify": {
+    "score": 148675,
+    "fingerprint": "5b4bb622de1f72cd924da633096080d0edf85892ead9381fd717c635c1a9a96b"
+  },
+  "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
+    "score": 141867,
+    "fingerprint": "08ee7573127e0c7f9f1fb4b897d5c24da8d1192940181a0d699d22c95865d891"
+  },
+  "https://github.com/langchain-ai/langchain": {
+    "score": 141658,
+    "fingerprint": "93823720f2b41ad2d8b2d26161f0e12d2c07188ee9418634117ddce531b0085e"
+  },
+  "https://github.com/anthropics/claude-code": {
+    "score": 137657,
+    "fingerprint": "49065a8d6b6ab94bb289c9c4d62d7898c81c5ba1390302ef4a4347b85914988b"
+  },
+  "https://github.com/msitarzewski/agency-agents": {
+    "score": 130970,
+    "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd"
   }
 }
