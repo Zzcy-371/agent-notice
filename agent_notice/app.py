@@ -8,11 +8,13 @@ from urllib.request import Request, urlopen
 import feedparser
 
 from agent_notice.config import Settings
+from agent_notice.deepseek import DeepSeekClient, fallback_brief
 from agent_notice.filtering import select_items
 from agent_notice.mailer import send_email
 from agent_notice.models import Category
 from agent_notice.reports import render_daily, render_email, render_weekly
 from agent_notice.sources import GitHubSource, RssSource
+from agent_notice.state import NoticeState, should_notify
 
 
 ROOT = Path(__file__).parents[1]
@@ -23,6 +25,12 @@ def get_json(url: str) -> dict:
     if token := os.environ.get("GITHUB_TOKEN"):
         headers["Authorization"] = f"Bearer {token}"
     with urlopen(Request(url, headers=headers), timeout=30) as response:
+        return json.load(response)
+
+
+def post_json(url: str, body: dict, headers: dict) -> dict:
+    request = Request(url, data=json.dumps(body).encode(), headers=headers, method="POST")
+    with urlopen(request, timeout=60) as response:
         return json.load(response)
 
 
@@ -39,10 +47,18 @@ def run_daily(day: date, output_root: Path, settings: Settings) -> Path:
     results = [source.fetch(now) for source in sources()]
     if results and all(result.error for result in results):
         raise RuntimeError("All sources failed")
-    items = select_items((item for result in results for item in result.items), now)
-    report = render_daily(day, items, [result.error for result in results if result.error])
+    state_path = output_root / "state.json"; state = NoticeState.load(state_path)
+    candidates = select_items((item for result in results for item in result.items), now, limit=15)
+    items = [item for item in candidates if should_notify(item, state)][:6]
+    client = DeepSeekClient(os.environ.get("DEEPSEEK_API_KEY", ""), post_json) if os.environ.get("DEEPSEEK_API_KEY") else None
+    briefs = {}
+    for item in items:
+        try: briefs[item.key] = client.brief(item) if client else fallback_brief(item)
+        except Exception: briefs[item.key] = fallback_brief(item)
+    report = render_daily(day, items, [result.error for result in results if result.error], briefs)
     path = output_root / "daily" / f"{day.isoformat()}.md"
     path.parent.mkdir(parents=True, exist_ok=True); path.write_text(report, encoding="utf-8")
+    state.record(items); state_path.write_text(json.dumps(state.entries, ensure_ascii=False, indent=2), encoding="utf-8")
     send_email(settings, f"Agent 技术日报 · {day.isoformat()}", render_email("Agent 技术日报", report))
     return path
 
