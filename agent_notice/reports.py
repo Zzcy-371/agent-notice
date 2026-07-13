@@ -38,5 +38,5 @@ def render_weekly(week: str, daily_reports: Mapping[date, str]) -> str:
 
 
 def render_email(subject: str, report: str) -> str:
-    items = [line for line in report.splitlines() if line.startswith("- [")]
-    return f"{subject}\n\n" + "\n".join(items[:15])
+    content = "\n".join(line for line in report.splitlines() if not line.startswith("# Agent 技术日报"))
+    return f"{subject}\n\n{content.strip()}\n"

@@ -21,3 +21,10 @@ def test_weekly_and_email_preserve_report_links():
     report = render_weekly("2026-W28", {date(2026, 7, 13): "- [Repo](https://example.test/repo)"})
     assert "# Agent 技术周报 · 2026-W28" in report
     assert "https://example.test/repo" in render_email("Weekly", report)
+
+
+def test_email_keeps_chinese_project_bullets():
+    report = "# Agent 技术日报 · 2026-07-13\n\n### [中文项目](https://example.test)\n- 项目定位\n- MCP 架构\n- 工程价值\n"
+    body = render_email("日报", report)
+    assert "中文项目" in body
+    assert "工程价值" in body
