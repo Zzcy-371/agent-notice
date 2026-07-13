@@ -1,8 +1,12 @@
 name: Daily agent notice
-on:
-  schedule: [{cron: '30 0 * * *'}]
-  workflow_dispatch:
-permissions: {contents: write}
+
+"on":
+  workflow_dispatch: {}
+  schedule:
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
 jobs:
   notify:
     runs-on: ubuntu-latest
@@ -14,7 +18,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with: {python-version: '3.12'}
+        with:
+          python-version: "3.12"
       - run: pip install -e '.[dev]'
       - run: python -m agent_notice.app daily
       - run: git add reports && git diff --cached --quiet || (git config user.name github-actions[bot] && git config user.email 41898282+github-actions[bot]@users.noreply.github.com && git commit -m 'docs: add daily agent report' && git push)

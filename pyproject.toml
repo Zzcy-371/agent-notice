@@ -10,7 +10,7 @@ dependencies = [
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 
-[dependency-groups]
+[project.optional-dependencies]
 dev = [
     "pytest>=8.0",
 ]
