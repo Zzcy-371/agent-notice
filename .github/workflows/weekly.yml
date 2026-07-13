@@ -22,4 +22,12 @@ jobs:
           python-version: "3.12"
       - run: pip install -e '.[dev]'
       - run: python -m agent_notice.app weekly
-      - run: git add reports && git diff --cached --quiet || (git config user.name github-actions[bot] && git config user.email 41898282+github-actions[bot]@users.noreply.github.com && git commit -m 'docs: add weekly agent report' && git push)
+      - name: Commit generated report
+        run: |
+          git add reports
+          if ! git diff --cached --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -m "docs: add weekly agent report"
+            git push
+          fi
