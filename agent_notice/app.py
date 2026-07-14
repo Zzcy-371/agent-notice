@@ -9,6 +9,7 @@ import feedparser
 
 from agent_notice.config import Settings
 from agent_notice.deepseek import DeepSeekClient, fallback_brief
+from agent_notice.delivery_state import DeliveryState
 from agent_notice.filtering import select_items
 from agent_notice.mailer import send_email
 from agent_notice.models import Category
@@ -43,6 +44,9 @@ def sources() -> list:
 
 
 def run_daily(day: date, output_root: Path, settings: Settings) -> Path:
+    delivery_path = output_root / "delivery.json"; delivery = DeliveryState.load(delivery_path)
+    if delivery.was_delivered(day):
+        return output_root / "daily" / f"{day.isoformat()}.md"
     now = datetime.combine(day, datetime.min.time(), UTC)
     results = [source.fetch(now) for source in sources()]
     if results and all(result.error for result in results):
@@ -58,8 +62,9 @@ def run_daily(day: date, output_root: Path, settings: Settings) -> Path:
     report = render_daily(day, items, [result.error for result in results if result.error], briefs)
     path = output_root / "daily" / f"{day.isoformat()}.md"
     path.parent.mkdir(parents=True, exist_ok=True); path.write_text(report, encoding="utf-8")
-    state.record(items); state_path.write_text(json.dumps(state.entries, ensure_ascii=False, indent=2), encoding="utf-8")
     send_email(settings, f"Agent 技术日报 · {day.isoformat()}", render_email("Agent 技术日报", report))
+    state.record(items); state_path.write_text(json.dumps(state.entries, ensure_ascii=False, indent=2), encoding="utf-8")
+    delivery.mark_delivered(day); delivery.save(delivery_path)
     return path
 
 
