@@ -1,14 +1,14 @@
 {
   "https://github.com/obra/superpowers": {
-    "score": 253458,
+    "score": 254795,
     "fingerprint": "0ac69362f2d6027e91827ff65a0c0317d0345d85c559aa2721412e0d62e992b3"
   },
   "https://github.com/affaan-m/ECC": {
-    "score": 229099,
+    "score": 229781,
     "fingerprint": "c99d4b8fb94066db76224fc1bc8dfb91c2be0930dd828f63cd147e90a7e36bf7"
   },
   "https://github.com/NousResearch/hermes-agent": {
-    "score": 214021,
+    "score": 214947,
     "fingerprint": "67c528cf73c310a2be5ba4a2429a6e470cc0425e46b4fe0ce31515ddd259f4e8"
   },
   "https://github.com/ultraworkers/claw-code": {
@@ -16,11 +16,11 @@
     "fingerprint": "d798dfa02ac9a672e1f160938158b1bf677c96f5a1476f27efcfe40eb753eae2"
   },
   "https://github.com/anomalyco/opencode": {
-    "score": 185295,
+    "score": 185903,
     "fingerprint": "e022a953fa38f1ea4d78f31e67ca1b559f05ca52f46d03f89e55419c8b0f95d7"
   },
   "https://github.com/anthropics/skills": {
-    "score": 160725,
+    "score": 161184,
     "fingerprint": "a314cbfb2e30e756de68623f0c29e97af5001d3bad01f181c09954fe0c1f5e90"
   },
   "https://github.com/langflow-ai/langflow": {
@@ -28,7 +28,7 @@
     "fingerprint": "5dcaca0bd6239b0127be99e2780720a9c273476ef5704512393c11f9c50b51be"
   },
   "https://github.com/langgenius/dify": {
-    "score": 148675,
+    "score": 148858,
     "fingerprint": "5b4bb622de1f72cd924da633096080d0edf85892ead9381fd717c635c1a9a96b"
   },
   "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
