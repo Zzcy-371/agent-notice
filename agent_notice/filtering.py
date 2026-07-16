@@ -2,6 +2,7 @@ from collections.abc import Iterable
 from datetime import datetime, timedelta
 
 from agent_notice.models import Category, Item
+from agent_notice.state import NoticeState, is_in_cooldown, should_notify
 
 
 _KEYWORDS = ("agent", "agentic", "multi-agent", "mcp", "tool use", "tool-use")
@@ -43,3 +44,12 @@ def select_items(items: Iterable[Item], now: datetime, limit: int = 15) -> list[
         if len(selected) == limit:
             break
     return selected
+
+
+def select_daily_items(items: Iterable[Item], now: datetime, state: NoticeState) -> list[Item]:
+    candidates = [item for item in select_items(items, now, limit=100) if should_notify(item, state) and not is_in_cooldown(item, state, now.date())]
+    mature = [item for item in candidates if not item.created_at or item.created_at < now - timedelta(days=90)][:4]
+    used = {item.key for item in mature}
+    emerging = [item for item in candidates if item.key not in used and item.created_at and item.created_at >= now - timedelta(days=90)]
+    emerging.sort(key=lambda item: (item.score - state.entries.get(item.key, {}).get("score", item.score), item.published_at.timestamp()), reverse=True)
+    return mature + emerging[:2]

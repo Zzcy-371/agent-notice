@@ -1,7 +1,8 @@
 from datetime import datetime, timedelta
 
-from agent_notice.filtering import select_items
+from agent_notice.filtering import select_daily_items, select_items
 from agent_notice.models import Category, Item
+from agent_notice.state import NoticeState
 
 
 NOW = datetime(2026, 7, 13, 12, 0, 0)
@@ -15,6 +16,7 @@ def make_item(
     published_at: datetime = NOW,
     url: str | None = None,
     summary: str = "",
+    created_at: datetime | None = None,
 ) -> Item:
     return Item(
         title=title,
@@ -24,6 +26,7 @@ def make_item(
         published_at=published_at,
         summary=summary,
         score=score,
+        created_at=created_at,
     )
 
 
@@ -70,3 +73,13 @@ def test_select_items_excludes_items_older_than_report_day_window() -> None:
     current = make_item("agent today", published_at=NOW - timedelta(days=1))
 
     assert select_items([stale, current], NOW) == [current]
+
+
+def test_select_daily_items_reserves_four_mature_and_two_emerging() -> None:
+    mature = [make_item(f"agent mature {index}", score=1000 - index) for index in range(4)]
+    emerging = [make_item(f"agent emerging {index}", score=100 - index, created_at=NOW - timedelta(days=10)) for index in range(3)]
+
+    selected = select_daily_items(mature + emerging, NOW, NoticeState())
+
+    assert len(selected) == 6
+    assert len({item.key for item in selected}) == 6

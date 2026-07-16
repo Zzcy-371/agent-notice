@@ -26,6 +26,7 @@ class Item:
     published_at: datetime
     summary: str
     score: int
+    created_at: datetime | None = None
 
     def __post_init__(self) -> None:
         object.__setattr__(self, "url", normalize_url(self.url))

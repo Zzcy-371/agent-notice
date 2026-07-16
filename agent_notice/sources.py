@@ -53,6 +53,7 @@ class GitHubSource:
             published_at=_published_at(repository.get("updated_at"), now),
             summary=repository.get("description") or "",
             score=int(repository.get("stargazers_count") or 0),
+            created_at=_published_at(repository.get("created_at"), now),
         )
 
 
