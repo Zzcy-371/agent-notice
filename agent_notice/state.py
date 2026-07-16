@@ -23,6 +23,6 @@ class NoticeState:
             self.entries[item.key] = {"score": item.score, "fingerprint": _fingerprint(item)}
 
 
-def should_notify(item: Item, state: NoticeState, star_delta: int = 100) -> bool:
+def should_notify(item: Item, state: NoticeState, star_delta: int = 5000) -> bool:
     previous = state.entries.get(item.key)
     return previous is None or item.score - previous["score"] >= star_delta or previous["fingerprint"] != _fingerprint(item)
