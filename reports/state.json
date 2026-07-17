@@ -46,5 +46,35 @@
   "https://github.com/msitarzewski/agency-agents": {
     "score": 130970,
     "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd"
+  },
+  "https://github.com/Shubhamsaboo/awesome-llm-apps": {
+    "score": 123027,
+    "fingerprint": "435a428e753ce3397dd2e45a5886d7e989c6be10b93dd2415f41cca123bea764",
+    "last_sent": "2026-07-17"
+  },
+  "https://github.com/farion1231/cc-switch": {
+    "score": 118035,
+    "fingerprint": "45750fa9d712b7c8390bb4f27aa975c38657bb09cb05804357e0c4a8b3abc71b",
+    "last_sent": "2026-07-17"
+  },
+  "https://github.com/google-gemini/gemini-cli": {
+    "score": 106025,
+    "fingerprint": "57041ba17a99a4b53ccfbef855b5d0a2471666bf41e6f49e81e844bc615f3abf",
+    "last_sent": "2026-07-17"
+  },
+  "https://github.com/browser-use/browser-use": {
+    "score": 105123,
+    "fingerprint": "32310c1bdbe4f2889e2b51ec523049d8404433ceb19961cc091e19c3f32b5eee",
+    "last_sent": "2026-07-17"
+  },
+  "https://github.com/DietrichGebert/ponytail": {
+    "score": 84746,
+    "fingerprint": "7d079e3e15e1672385ae4cbadc5e7de19821e3037216533c19198f7aa31cbe70",
+    "last_sent": "2026-07-17"
+  },
+  "https://github.com/nexu-io/open-design": {
+    "score": 79018,
+    "fingerprint": "b84d4f9a6fa801d6e97ee7ca5a9d4fafd22bbe7d26404a026f0b9bb222272913",
+    "last_sent": "2026-07-17"
   }
 }
