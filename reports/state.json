@@ -76,5 +76,25 @@
     "score": 79018,
     "fingerprint": "b84d4f9a6fa801d6e97ee7ca5a9d4fafd22bbe7d26404a026f0b9bb222272913",
     "last_sent": "2026-07-17"
+  },
+  "https://github.com/mattpocock/skills": {
+    "score": 175759,
+    "fingerprint": "292a013ebbf9decdaee1516b30e2ba1c4c748cdb56c5910247e292299fed2afa",
+    "last_sent": "2026-07-18"
+  },
+  "https://github.com/VoltAgent/awesome-design-md": {
+    "score": 102691,
+    "fingerprint": "59f3ef81e49a6694e1f621a360acfeaec9078f649528046cf9b771bc7873ddae",
+    "last_sent": "2026-07-18"
+  },
+  "https://github.com/openai/codex": {
+    "score": 99184,
+    "fingerprint": "d353608afc4576c7e24680f41285cb9eaa769895c019bef5c4fd5ec24a5bd7f9",
+    "last_sent": "2026-07-18"
+  },
+  "https://github.com/TauricResearch/TradingAgents": {
+    "score": 93443,
+    "fingerprint": "e57b95470e420d84ce99cc370741809e4f9d6110b47eac620fe6f97cc2447637",
+    "last_sent": "2026-07-18"
   }
 }
