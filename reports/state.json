@@ -96,5 +96,25 @@
     "score": 93443,
     "fingerprint": "e57b95470e420d84ce99cc370741809e4f9d6110b47eac620fe6f97cc2447637",
     "last_sent": "2026-07-18"
+  },
+  "https://github.com/karpathy/autoresearch": {
+    "score": 91500,
+    "fingerprint": "59f07d2abaafa6e2228c6a11ceb1d45827fb94a235462f01a84a4a4f20272e96",
+    "last_sent": "2026-07-19"
+  },
+  "https://github.com/thedotmack/claude-mem": {
+    "score": 87762,
+    "fingerprint": "ee59b10d39faa93a904e373df78c58f38940847020d66341fc31a38205586dc6",
+    "last_sent": "2026-07-19"
+  },
+  "https://github.com/infiniflow/ragflow": {
+    "score": 85356,
+    "fingerprint": "ea622094a0ea662b2380e977a83b12cd2cbfeaaa51e929f23f0265dc6205c58b",
+    "last_sent": "2026-07-19"
+  },
+  "https://github.com/lobehub/lobehub": {
+    "score": 80492,
+    "fingerprint": "6bf0b5461b848a58264706262f6a01c3b5b8f6cc8941e5fcbde5a580256d2891",
+    "last_sent": "2026-07-19"
   }
 }
