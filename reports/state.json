@@ -116,5 +116,25 @@
     "score": 80492,
     "fingerprint": "6bf0b5461b848a58264706262f6a01c3b5b8f6cc8941e5fcbde5a580256d2891",
     "last_sent": "2026-07-19"
+  },
+  "https://github.com/addyosmani/agent-skills": {
+    "score": 79339,
+    "fingerprint": "4affa527cf478fd954bc9135ad972b89c3b334e60b40edabfdfef6538833df3a",
+    "last_sent": "2026-07-20"
+  },
+  "https://github.com/dair-ai/Prompt-Engineering-Guide": {
+    "score": 76752,
+    "fingerprint": "ae493099e63c1d1a2c7438881d3404ca8a4a25e37874a270c389e05a0b79dedb",
+    "last_sent": "2026-07-20"
+  },
+  "https://github.com/opendatalab/MinerU": {
+    "score": 75137,
+    "fingerprint": "9a3c112e4a328b5fc1b47dda0fe3f0021c25d5acc04f11c21b602c8b2b32c0ca",
+    "last_sent": "2026-07-20"
+  },
+  "https://github.com/paperclipai/paperclip": {
+    "score": 74228,
+    "fingerprint": "d44e71edb47d4cbde83923a19ed93dfe6d9f641a9d2b5ac8c1d042733187bcea",
+    "last_sent": "2026-07-20"
   }
 }
