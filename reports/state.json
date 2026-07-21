@@ -28,8 +28,9 @@
     "fingerprint": "5dcaca0bd6239b0127be99e2780720a9c273476ef5704512393c11f9c50b51be"
   },
   "https://github.com/langgenius/dify": {
-    "score": 148858,
-    "fingerprint": "5b4bb622de1f72cd924da633096080d0edf85892ead9381fd717c635c1a9a96b"
+    "score": 149546,
+    "fingerprint": "d4ea4acf9a18f8b64032d85736a987d22194ca1519f9d28b19bfa0dd90b7020d",
+    "last_sent": "2026-07-21"
   },
   "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
     "score": 141867,
@@ -136,5 +137,20 @@
     "score": 74228,
     "fingerprint": "d44e71edb47d4cbde83923a19ed93dfe6d9f641a9d2b5ac8c1d042733187bcea",
     "last_sent": "2026-07-20"
+  },
+  "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials": {
+    "score": 0,
+    "fingerprint": "ceaa8da44f4c1b627d78ce0ce3a88210b117cf187290bcbfe2d6b54d12f8dcef",
+    "last_sent": "2026-07-21"
+  },
+  "https://arxiv.org/abs/2602.06547": {
+    "score": 0,
+    "fingerprint": "67a497ba949c5dc91c7004136245e8ae218aab435aa1eee0969d3d2397227fd5",
+    "last_sent": "2026-07-21"
+  },
+  "https://github.com/Cosmonapse/cosmonapse-core": {
+    "score": 0,
+    "fingerprint": "372c454c021c82eba84fbdfa0d0eef6a97c4e4a19bbea812436739e69c752e36",
+    "last_sent": "2026-07-21"
   }
 }
