@@ -172,5 +172,25 @@
     "score": 0,
     "fingerprint": "1b61185c7c889bac986f2a8d59c07f2a154caa042c33cd8432d234ab7ee0d81d",
     "last_sent": "2026-07-22"
+  },
+  "https://github.com/StructuPath/herdr-guard": {
+    "score": 0,
+    "fingerprint": "181339a394b51e6e01a3fc780627af446bbad7a8d43bfb3647010000ebbc95af",
+    "last_sent": "2026-07-23"
+  },
+  "https://www.reuters.com/legal/litigation/chinese-ais-role-stopping-rogue-openai-agent-shows-cost-us-guardrails-2026-07-22": {
+    "score": 0,
+    "fingerprint": "4c7964788434c90fb2c75fe923cc1c1becad69bd8bd481cfa5dfc315295d7f99",
+    "last_sent": "2026-07-23"
+  },
+  "https://twitter.com/aparnadhinak/status/2073079029624943040": {
+    "score": 0,
+    "fingerprint": "cd77e1e42cd5b45e0b42a705234b7b570aa0c0e715772725f9156ca20149f54c",
+    "last_sent": "2026-07-23"
+  },
+  "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released": {
+    "score": 0,
+    "fingerprint": "697823ce7c6e728f93a4142f843fd62298108d6061c35c91b211d508f2e5232f",
+    "last_sent": "2026-07-23"
   }
 }
