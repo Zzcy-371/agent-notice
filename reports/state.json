@@ -45,8 +45,9 @@
     "fingerprint": "49065a8d6b6ab94bb289c9c4d62d7898c81c5ba1390302ef4a4347b85914988b"
   },
   "https://github.com/msitarzewski/agency-agents": {
-    "score": 130970,
-    "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd"
+    "score": 136212,
+    "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd",
+    "last_sent": "2026-07-24"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
     "score": 123027,
@@ -192,5 +193,20 @@
     "score": 0,
     "fingerprint": "697823ce7c6e728f93a4142f843fd62298108d6061c35c91b211d508f2e5232f",
     "last_sent": "2026-07-23"
+  },
+  "https://www.meyo.life/skill": {
+    "score": 0,
+    "fingerprint": "6d801483d8d31911d9610f07035ac27ef9eb32c00366f35bbe4ddb5cb2638860",
+    "last_sent": "2026-07-24"
+  },
+  "https://ruhan-wang.github.io/Harness-Handbook": {
+    "score": 0,
+    "fingerprint": "8a3906fc1aafa614a0e324dd4a67f97bc0d18d29302e3477b72ec5a1d3aaee27",
+    "last_sent": "2026-07-24"
+  },
+  "https://baursoftware.com/zero-trust/chrysalis": {
+    "score": 0,
+    "fingerprint": "3ede46662dc5c7fdf750fb84a7460eba4bfbd1dd51433cd68eca9a70b5540517",
+    "last_sent": "2026-07-24"
   }
 }
