@@ -1,7 +1,8 @@
 {
   "https://github.com/obra/superpowers": {
-    "score": 255479,
-    "fingerprint": "0ac69362f2d6027e91827ff65a0c0317d0345d85c559aa2721412e0d62e992b3"
+    "score": 260653,
+    "fingerprint": "0ac69362f2d6027e91827ff65a0c0317d0345d85c559aa2721412e0d62e992b3",
+    "last_sent": "2026-07-25"
   },
   "https://github.com/affaan-m/ECC": {
     "score": 230173,
@@ -208,5 +209,20 @@
     "score": 0,
     "fingerprint": "3ede46662dc5c7fdf750fb84a7460eba4bfbd1dd51433cd68eca9a70b5540517",
     "last_sent": "2026-07-24"
+  },
+  "https://github.com/roopamwsure/cage-lite": {
+    "score": 0,
+    "fingerprint": "fbe7140f84b48ffe30344dd2e6fbb91c5ef499168b1134edb28205e871876d48",
+    "last_sent": "2026-07-25"
+  },
+  "https://github.com/samchon/lint-plugin-evidence": {
+    "score": 0,
+    "fingerprint": "1e1acf578beb00b6c298b739754423e3d554c5fd20dfabfba7cce0e8fa680913",
+    "last_sent": "2026-07-25"
+  },
+  "https://kalytera.dev": {
+    "score": 0,
+    "fingerprint": "0e9e0fcf64a5a85b763d42122e8742bf629d19c2e44549430fe9aeef8fcf9e05",
+    "last_sent": "2026-07-25"
   }
 }
