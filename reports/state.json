@@ -260,5 +260,25 @@
     "score": 0,
     "fingerprint": "0655418bd5f8935dc437cae434b72dd0bf32dfb6e0b87345c7869cd3f8349ffd",
     "last_sent": "2026-07-27"
+  },
+  "https://www.youtube.com/watch?v=lw52w7Pw86M\\": {
+    "score": 0,
+    "fingerprint": "f0c858f891d8e9a42a155e70b3ebd4b1807f64860f56e185d06fa7e01ef38a0a",
+    "last_sent": "2026-07-28"
+  },
+  "https://news.ycombinator.com/item?id=49078625": {
+    "score": 0,
+    "fingerprint": "55a76bd6675817bfa1b2e97bebb1dc1776e2a3ef0ffc99e3d5a043bff2082f30",
+    "last_sent": "2026-07-28"
+  },
+  "https://github.com/VinvAI/VinvAI": {
+    "score": 0,
+    "fingerprint": "41c3cc8bd8d7b011daeaa31644ad7ffc9ef6303a39716b95c0b5809b09d193dd",
+    "last_sent": "2026-07-28"
+  },
+  "https://www.dbreunig.com/2026/07/24/manage-your-agent-s-loadout-with-dr-skill.html": {
+    "score": 0,
+    "fingerprint": "c4a808bf293ee248bddd5f72a4f1f818c153a0ceda74b481f19096407ecfe8b5",
+    "last_sent": "2026-07-28"
   }
 }
