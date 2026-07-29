@@ -280,5 +280,25 @@
     "score": 0,
     "fingerprint": "c4a808bf293ee248bddd5f72a4f1f818c153a0ceda74b481f19096407ecfe8b5",
     "last_sent": "2026-07-28"
+  },
+  "https://github.com/WutIsHummus/TrueDeck": {
+    "score": 0,
+    "fingerprint": "b8c341afa1340499c044d713afc796980fa65557084445d7f9d6dd4fc0a0b965",
+    "last_sent": "2026-07-29"
+  },
+  "https://marble.glass.bio/": {
+    "score": 0,
+    "fingerprint": "b233f695b78cd6961dfb5a3481aa15d21d09a6433f5b70452f8d394cf78cd528",
+    "last_sent": "2026-07-29"
+  },
+  "https://huggingface-anatomy-of-frontier-lab-model-intrusion.static.hf.space/index.html": {
+    "score": 0,
+    "fingerprint": "6961cd0fcf0648578b8a54b703cb7def94982c3507c7522a518482b85593e504",
+    "last_sent": "2026-07-29"
+  },
+  "https://github.com/adithyan-ak/agenthound": {
+    "score": 0,
+    "fingerprint": "34bd595f7e9b1fbdc52f6c04f07dc69ef06988ed4cca1ba7f66bc08219dbe21a",
+    "last_sent": "2026-07-29"
   }
 }
