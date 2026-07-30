@@ -5,8 +5,9 @@
     "last_sent": "2026-07-25"
   },
   "https://github.com/affaan-m/ECC": {
-    "score": 230173,
-    "fingerprint": "c99d4b8fb94066db76224fc1bc8dfb91c2be0930dd828f63cd147e90a7e36bf7"
+    "score": 235676,
+    "fingerprint": "c99d4b8fb94066db76224fc1bc8dfb91c2be0930dd828f63cd147e90a7e36bf7",
+    "last_sent": "2026-07-30"
   },
   "https://github.com/NousResearch/hermes-agent": {
     "score": 221013,
@@ -300,5 +301,20 @@
     "score": 0,
     "fingerprint": "34bd595f7e9b1fbdc52f6c04f07dc69ef06988ed4cca1ba7f66bc08219dbe21a",
     "last_sent": "2026-07-29"
+  },
+  "https://github.com/KonghaYao/peri": {
+    "score": 0,
+    "fingerprint": "6c2cc6d1607147cd7d904d025399f4d579e1921e97be0c49fb4ab3468dce3342",
+    "last_sent": "2026-07-30"
+  },
+  "https://github.com/perplexityai/numbat": {
+    "score": 0,
+    "fingerprint": "537c53279e1c06e28c20f83658d63c1869a091b70cb3a5a8cc98d6eaa60a216b",
+    "last_sent": "2026-07-30"
+  },
+  "https://www.tag24.com/en/tech/openai-reveals-cyberattack-caused-by-rogue-ai-agent-was-worse-than-initially-reported-3520116": {
+    "score": 0,
+    "fingerprint": "4eec832686833e1f199fad9e334d539d18ec7cd4a42f9c67c183537b50976004",
+    "last_sent": "2026-07-30"
   }
 }
