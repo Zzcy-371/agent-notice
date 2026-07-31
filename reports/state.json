@@ -19,8 +19,9 @@
     "fingerprint": "d798dfa02ac9a672e1f160938158b1bf677c96f5a1476f27efcfe40eb753eae2"
   },
   "https://github.com/anomalyco/opencode": {
-    "score": 186255,
-    "fingerprint": "e022a953fa38f1ea4d78f31e67ca1b559f05ca52f46d03f89e55419c8b0f95d7"
+    "score": 191300,
+    "fingerprint": "e022a953fa38f1ea4d78f31e67ca1b559f05ca52f46d03f89e55419c8b0f95d7",
+    "last_sent": "2026-07-31"
   },
   "https://github.com/anthropics/skills": {
     "score": 161479,
@@ -316,5 +317,20 @@
     "score": 0,
     "fingerprint": "4eec832686833e1f199fad9e334d539d18ec7cd4a42f9c67c183537b50976004",
     "last_sent": "2026-07-30"
+  },
+  "https://fluentforall.com/": {
+    "score": 0,
+    "fingerprint": "8b1b0a376c41762ec7cf9b65c5340f3b5f3037599c1e4b4e66d7779acee45fcd",
+    "last_sent": "2026-07-31"
+  },
+  "https://www.usagentleads.com": {
+    "score": 0,
+    "fingerprint": "bd846d9669bcbfd457f68cbfba2aec6593b806f2a28114efbd1cd2516b8cf1e2",
+    "last_sent": "2026-07-31"
+  },
+  "https://blog.bytebytego.com/p/how-chatgpt-optimizes-its-agent-loop": {
+    "score": 0,
+    "fingerprint": "2281ca26217d01425320330b9f424a7859352247d40747ec7aeee8d5e594bf56",
+    "last_sent": "2026-07-31"
   }
 }
