@@ -372,5 +372,25 @@
     "score": 0,
     "fingerprint": "70227eddc67e41f0a3383ade7739fa74ce0de311d8ead15dc6714bb3acd3ca4d",
     "last_sent": "2026-08-03"
+  },
+  "https://www.deepnlp.org/blog/ai-agent-marketplace-intelligence-report-2026-h1-trends-insights-ecosystem-analysis": {
+    "score": 0,
+    "fingerprint": "b1eb6f61c0970e27363bf4ff297846e94d232adc1ef99e7269b7cee0d113784f",
+    "last_sent": "2026-08-04"
+  },
+  "https://twitter.com/Vercantez/status/2082138839888589200": {
+    "score": 0,
+    "fingerprint": "07a6486f5aaf0c9886c35fdd09f41bec16730cd2c06d02c50423ca4da108043d",
+    "last_sent": "2026-08-04"
+  },
+  "https://blog.cloudflare.com/cloudflare-computer": {
+    "score": 0,
+    "fingerprint": "a1a66c7e93493540c18d607e836598567c850629ae19edcd0cc2c30b3667f59c",
+    "last_sent": "2026-08-04"
+  },
+  "https://kiro.dev/blog/one-agent": {
+    "score": 0,
+    "fingerprint": "1a09b22668704b5fb2df3c0a75a06544127750b8f7b1e33bb91ff5b8e7d3e7f7",
+    "last_sent": "2026-08-04"
   }
 }
