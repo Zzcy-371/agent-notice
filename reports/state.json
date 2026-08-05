@@ -392,5 +392,25 @@
     "score": 0,
     "fingerprint": "1a09b22668704b5fb2df3c0a75a06544127750b8f7b1e33bb91ff5b8e7d3e7f7",
     "last_sent": "2026-08-04"
+  },
+  "https://www.memcode.ai/": {
+    "score": 0,
+    "fingerprint": "c272947a99477289e92fa2c71be0eb7a92020aaf28e9e8fd53fc78740055f8d5",
+    "last_sent": "2026-08-05"
+  },
+  "https://www.reddit.com/r/termux/s/FqS76rc2z3": {
+    "score": 0,
+    "fingerprint": "b06c58edb06cdd528392b3889915e6c7733d2cb728b74f477284bdecad3bf40c",
+    "last_sent": "2026-08-05"
+  },
+  "https://lexifina.com/blog/top-10-agent-optimisations-for-latency": {
+    "score": 0,
+    "fingerprint": "01592e6156871dc065242de768b6ccba4a7f114752ff7b81fd4ec727bd62643b",
+    "last_sent": "2026-08-05"
+  },
+  "https://projecthub.arduino.cc/neelbuilds/build-a-voice-based-kiosk-for-retail-store-using-moorcheh-edge-and-arduino-uno-q-7f3c7b": {
+    "score": 0,
+    "fingerprint": "30ebc977cfafdc7e65c3334d0a3275ff494646158322f286b1254ec4780360be",
+    "last_sent": "2026-08-05"
   }
 }
