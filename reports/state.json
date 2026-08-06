@@ -24,8 +24,9 @@
     "last_sent": "2026-07-31"
   },
   "https://github.com/anthropics/skills": {
-    "score": 161479,
-    "fingerprint": "a314cbfb2e30e756de68623f0c29e97af5001d3bad01f181c09954fe0c1f5e90"
+    "score": 166518,
+    "fingerprint": "a314cbfb2e30e756de68623f0c29e97af5001d3bad01f181c09954fe0c1f5e90",
+    "last_sent": "2026-08-06"
   },
   "https://github.com/langflow-ai/langflow": {
     "score": 151923,
@@ -412,5 +413,20 @@
     "score": 0,
     "fingerprint": "30ebc977cfafdc7e65c3334d0a3275ff494646158322f286b1254ec4780360be",
     "last_sent": "2026-08-05"
+  },
+  "https://arxiv.org/abs/2606.23449": {
+    "score": 0,
+    "fingerprint": "642d67d241f2a3987ba0011173c743d34fea62b05040b2c4accce17c1247904d",
+    "last_sent": "2026-08-06"
+  },
+  "https://www.abc.net.au/news/2026-08-06/meta-ai-reports-agent-hacked-external-company-during-testing/107003246": {
+    "score": 0,
+    "fingerprint": "e8db7ae1ce6d32ca3eaf2e827826b36bcc4df60eb29efbd12198f682464661b9",
+    "last_sent": "2026-08-06"
+  },
+  "https://medium.com/@vektormemory/how-to-give-ai-agent-a-memory-that-survives-the-session-116f69c23eaf": {
+    "score": 0,
+    "fingerprint": "872d8475f6e24be9c192b0b4f0e1eb057deb5b38629c2efcd6c5bee1bcf39402",
+    "last_sent": "2026-08-06"
   }
 }
