@@ -448,5 +448,25 @@
     "score": 0,
     "fingerprint": "fe86204123853b5dd5351db7d3a4a97668b5b9c385b65535cb8f0da438a84506",
     "last_sent": "2026-08-07"
+  },
+  "https://agenttunnels.com/": {
+    "score": 0,
+    "fingerprint": "0abac52097d818acbaf2de99cba7c23ca049ecb30b87851d096efc1fcfa2b7b0",
+    "last_sent": "2026-08-08"
+  },
+  "https://github.com/montanaflynn/agent-feedback": {
+    "score": 0,
+    "fingerprint": "cef55916e891d16aa3b8e6e991358485e716bd17fb2b8082c8044434b6b81cfa",
+    "last_sent": "2026-08-08"
+  },
+  "https://www.undocking.io/": {
+    "score": 0,
+    "fingerprint": "96b91e5caa939fda28e916bcd0001dea4918ecc0ae9fa4f3682889998275a8ac",
+    "last_sent": "2026-08-08"
+  },
+  "https://write.as/ih3l0kd78lpb1": {
+    "score": 0,
+    "fingerprint": "36964e69d1b718fe14a070ba5c0d6842946b9f3717d183f55e2a36a8d966571e",
+    "last_sent": "2026-08-08"
   }
 }
