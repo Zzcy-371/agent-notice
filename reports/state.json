@@ -468,5 +468,25 @@
     "score": 0,
     "fingerprint": "36964e69d1b718fe14a070ba5c0d6842946b9f3717d183f55e2a36a8d966571e",
     "last_sent": "2026-08-08"
+  },
+  "https://docs.langchain.com/oss/python/integrations/tools": {
+    "score": 0,
+    "fingerprint": "5670675077c5788a4bb26684da141e382a5dca4f6a028fe49fd60fe1e0ec4946",
+    "last_sent": "2026-08-09"
+  },
+  "https://github.com/Tura-AI/tura": {
+    "score": 0,
+    "fingerprint": "4e28e81cb6d4989ebf98fd6b194176c15afc6dc4fe049a1efb7c85b9c943a18a",
+    "last_sent": "2026-08-09"
+  },
+  "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b": {
+    "score": 0,
+    "fingerprint": "9bdc4b3557814386e9ab9c43901ad7722c8bf345fe32e5063b83e187e3ddbbfc",
+    "last_sent": "2026-08-09"
+  },
+  "https://benzi.fly.dev/about": {
+    "score": 0,
+    "fingerprint": "9f7bfa5e665f647a88b3b0e30eb3a05a3ca1c021993872a83732d9643626b661",
+    "last_sent": "2026-08-09"
   }
 }
