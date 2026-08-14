@@ -568,5 +568,25 @@
     "score": 0,
     "fingerprint": "b03aabe898da6a7dddf55426045e931c54670887f6aef4e6c3744cb7180d6722",
     "last_sent": "2026-08-13"
+  },
+  "https://honeymatcha.io/": {
+    "score": 0,
+    "fingerprint": "b80cb31f25b3560efbf6c4ac181ff3b8ed4cc007db74260a6c1902859af81f91",
+    "last_sent": "2026-08-14"
+  },
+  "https://github.com/hunterZh37/agentic-scheduling": {
+    "score": 0,
+    "fingerprint": "a3e3c0faae11e4475e7363fce823a96e4cf3bd7b9c38764a6c0dfb9d8b0ac6c1",
+    "last_sent": "2026-08-14"
+  },
+  "https://news.ycombinator.com/item?id=49292004": {
+    "score": 0,
+    "fingerprint": "fee441fb9b6630a05ae595c2fca4a3022faba9ca403c007f595e16638b8b41ee",
+    "last_sent": "2026-08-14"
+  },
+  "https://clixad.io/": {
+    "score": 0,
+    "fingerprint": "c2d8e1e8d6b7998e7e11196245e2860975518cdadab223dbbdd1f13794f0ba80",
+    "last_sent": "2026-08-14"
   }
 }
