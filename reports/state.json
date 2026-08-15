@@ -588,5 +588,25 @@
     "score": 0,
     "fingerprint": "c2d8e1e8d6b7998e7e11196245e2860975518cdadab223dbbdd1f13794f0ba80",
     "last_sent": "2026-08-14"
+  },
+  "https://flownie.com/": {
+    "score": 0,
+    "fingerprint": "ad1d2c9c5e2dc4ef4e8b047c05bfed08572f6c1df41af4a7ff2f7556db60883f",
+    "last_sent": "2026-08-15"
+  },
+  "https://github.com/talos-kernel/talos": {
+    "score": 0,
+    "fingerprint": "0a0f49f0cd19e08a1b6666768924a48c004a1afabc8aaeabf7ad076c28e45dbd",
+    "last_sent": "2026-08-15"
+  },
+  "https://embassia.com": {
+    "score": 0,
+    "fingerprint": "1c4eb23aa335b0984696f20b691e143d1784b0d3a6c6faaef868e8123ae4483d",
+    "last_sent": "2026-08-15"
+  },
+  "https://github.com/GCLprimary/PAT": {
+    "score": 0,
+    "fingerprint": "65a76acca395002811ee3435ce102dcae946afefd898b81cca92b4d7854a00b5",
+    "last_sent": "2026-08-15"
   }
 }
