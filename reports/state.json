@@ -55,14 +55,14 @@
     "last_sent": "2026-07-24"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
-    "score": 123027,
-    "fingerprint": "435a428e753ce3397dd2e45a5886d7e989c6be10b93dd2415f41cca123bea764",
-    "last_sent": "2026-07-17"
+    "score": 132764,
+    "fingerprint": "d65aaf7354f913df0b2fc03f2bdb57270f1fff908558efae93f101acc95a14ba",
+    "last_sent": "2026-08-16"
   },
   "https://github.com/farion1231/cc-switch": {
-    "score": 118035,
-    "fingerprint": "45750fa9d712b7c8390bb4f27aa975c38657bb09cb05804357e0c4a8b3abc71b",
-    "last_sent": "2026-07-17"
+    "score": 127423,
+    "fingerprint": "ed5f4310ddda953d9be2e9b46ebf91800151a8b7c32cdaa88739d18ccbb4317c",
+    "last_sent": "2026-08-16"
   },
   "https://github.com/google-gemini/gemini-cli": {
     "score": 106025,
@@ -75,14 +75,14 @@
     "last_sent": "2026-07-17"
   },
   "https://github.com/DietrichGebert/ponytail": {
-    "score": 84746,
+    "score": 103377,
     "fingerprint": "7d079e3e15e1672385ae4cbadc5e7de19821e3037216533c19198f7aa31cbe70",
-    "last_sent": "2026-07-17"
+    "last_sent": "2026-08-16"
   },
   "https://github.com/nexu-io/open-design": {
-    "score": 79018,
-    "fingerprint": "b84d4f9a6fa801d6e97ee7ca5a9d4fafd22bbe7d26404a026f0b9bb222272913",
-    "last_sent": "2026-07-17"
+    "score": 86964,
+    "fingerprint": "b887edfe63a95cff127bf0046c94cca473ed609e83622f68f4ebaa3019799778",
+    "last_sent": "2026-08-16"
   },
   "https://github.com/mattpocock/skills": {
     "score": 175759,
@@ -608,5 +608,10 @@
     "score": 0,
     "fingerprint": "65a76acca395002811ee3435ce102dcae946afefd898b81cca92b4d7854a00b5",
     "last_sent": "2026-08-15"
+  },
+  "https://arxiv.org/abs/2608.12368": {
+    "score": 0,
+    "fingerprint": "1fe38e9be4252da56ca0c6b72e286597670b46eaff3856fef3b2e05a476e4c7d",
+    "last_sent": "2026-08-16"
   }
 }
