@@ -613,5 +613,25 @@
     "score": 0,
     "fingerprint": "1fe38e9be4252da56ca0c6b72e286597670b46eaff3856fef3b2e05a476e4c7d",
     "last_sent": "2026-08-16"
+  },
+  "https://github.com/PrimeIntellect-ai/prime-agent": {
+    "score": 0,
+    "fingerprint": "29d8610f4da0847e63e1cdf3c31bff39ef819bd34e5e304955eae5312575af3b",
+    "last_sent": "2026-08-18"
+  },
+  "https://github.com/couldbeme/holdline": {
+    "score": 0,
+    "fingerprint": "2384d14f2e521fa424348561563e4f1a18482bb1d1908cfd985ab6311e44a82d",
+    "last_sent": "2026-08-18"
+  },
+  "https://castform.com/blog/harbor": {
+    "score": 0,
+    "fingerprint": "a241e2cf92e18872aa9751f55e30b1b2b078b62f6a1696eff55647acc39a270f",
+    "last_sent": "2026-08-18"
+  },
+  "https://github.com/yacine-kellib/agent-control-plane": {
+    "score": 0,
+    "fingerprint": "10e2a59b775be7952dc0379fb9a67afef983b56878838e691d53439ad6d055b4",
+    "last_sent": "2026-08-18"
   }
 }
