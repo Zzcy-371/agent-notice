@@ -125,9 +125,9 @@
     "last_sent": "2026-07-19"
   },
   "https://github.com/addyosmani/agent-skills": {
-    "score": 79339,
+    "score": 88401,
     "fingerprint": "4affa527cf478fd954bc9135ad972b89c3b334e60b40edabfdfef6538833df3a",
-    "last_sent": "2026-07-20"
+    "last_sent": "2026-08-19"
   },
   "https://github.com/dair-ai/Prompt-Engineering-Guide": {
     "score": 76752,
@@ -633,5 +633,20 @@
     "score": 0,
     "fingerprint": "10e2a59b775be7952dc0379fb9a67afef983b56878838e691d53439ad6d055b4",
     "last_sent": "2026-08-18"
+  },
+  "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack": {
+    "score": 0,
+    "fingerprint": "3b4c23504e5ff2af854a6405f9cf68c6a31ead939cb65748b8785328c7f1d5af",
+    "last_sent": "2026-08-19"
+  },
+  "https://blog.exe.dev/athena-deploys-exe": {
+    "score": 0,
+    "fingerprint": "5d6588d2f73f9372e44676e57e272a0551cda31ffbc78c196169bbe37f3bcedf",
+    "last_sent": "2026-08-19"
+  },
+  "https://twitter.com/vercel_dev/status/2089828083415355806": {
+    "score": 0,
+    "fingerprint": "3697670ee4b7504d378be3afc67ecb318ca60e83b8bdef9c707a42cca00c34ef",
+    "last_sent": "2026-08-19"
   }
 }
