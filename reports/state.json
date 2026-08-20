@@ -648,5 +648,25 @@
     "score": 0,
     "fingerprint": "3697670ee4b7504d378be3afc67ecb318ca60e83b8bdef9c707a42cca00c34ef",
     "last_sent": "2026-08-19"
+  },
+  "https://news.ycombinator.com/item?id=49368474": {
+    "score": 0,
+    "fingerprint": "2845515f5f10384c8842a130ccb7c51f4fe5c84b7ce4d7a7cd9af7a748dfe55b",
+    "last_sent": "2026-08-20"
+  },
+  "https://av.codes/blog/on-agent-swarms": {
+    "score": 0,
+    "fingerprint": "412fb8fd8d240600c5fff2c7431319346d4f601088c1120c64bfe09e219397eb",
+    "last_sent": "2026-08-20"
+  },
+  "https://github.com/BrightbeamAI/chap": {
+    "score": 0,
+    "fingerprint": "c14632b46e8d86c46637a36a16618d4f1f2ca51fea38c6d23e45f03162022ae5",
+    "last_sent": "2026-08-20"
+  },
+  "https://github.com/flashlan/vibe-kanban-alternative": {
+    "score": 0,
+    "fingerprint": "2bdc1a594a773c3f1c6e1b28bf203775b5e8de51bc2271a1ade49a52fc46eabd",
+    "last_sent": "2026-08-20"
   }
 }
