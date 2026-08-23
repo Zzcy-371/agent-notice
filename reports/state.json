@@ -50,9 +50,9 @@
     "fingerprint": "49065a8d6b6ab94bb289c9c4d62d7898c81c5ba1390302ef4a4347b85914988b"
   },
   "https://github.com/msitarzewski/agency-agents": {
-    "score": 136212,
+    "score": 147378,
     "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd",
-    "last_sent": "2026-07-24"
+    "last_sent": "2026-08-23"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
     "score": 132764,
@@ -70,9 +70,9 @@
     "last_sent": "2026-07-17"
   },
   "https://github.com/browser-use/browser-use": {
-    "score": 105123,
+    "score": 110151,
     "fingerprint": "32310c1bdbe4f2889e2b51ec523049d8404433ceb19961cc091e19c3f32b5eee",
-    "last_sent": "2026-07-17"
+    "last_sent": "2026-08-23"
   },
   "https://github.com/DietrichGebert/ponytail": {
     "score": 103377,
@@ -703,5 +703,15 @@
     "score": 0,
     "fingerprint": "c4cc9b9dae6dd20b82056b1af2941d3ddfc3440a9f7e18668151449946587ae1",
     "last_sent": "2026-08-22"
+  },
+  "https://www.a2gmarketplace.com": {
+    "score": 0,
+    "fingerprint": "102498952342aa8175c83c49aa9c92d1f88935073946f2ac2c7ea96470d4334e",
+    "last_sent": "2026-08-23"
+  },
+  "https://niyikiza.com/posts/agents-to-agents": {
+    "score": 0,
+    "fingerprint": "8cf718ee58d7c171f701ec34c1f23959f10074ccd94bfc21985488f8dfb98bb6",
+    "last_sent": "2026-08-23"
   }
 }
