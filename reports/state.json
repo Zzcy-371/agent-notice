@@ -1,8 +1,8 @@
 {
   "https://github.com/obra/superpowers": {
-    "score": 260653,
+    "score": 276696,
     "fingerprint": "0ac69362f2d6027e91827ff65a0c0317d0345d85c559aa2721412e0d62e992b3",
-    "last_sent": "2026-07-25"
+    "last_sent": "2026-08-24"
   },
   "https://github.com/affaan-m/ECC": {
     "score": 235676,
@@ -46,8 +46,9 @@
     "fingerprint": "93823720f2b41ad2d8b2d26161f0e12d2c07188ee9418634117ddce531b0085e"
   },
   "https://github.com/anthropics/claude-code": {
-    "score": 137657,
-    "fingerprint": "49065a8d6b6ab94bb289c9c4d62d7898c81c5ba1390302ef4a4347b85914988b"
+    "score": 142768,
+    "fingerprint": "49065a8d6b6ab94bb289c9c4d62d7898c81c5ba1390302ef4a4347b85914988b",
+    "last_sent": "2026-08-24"
   },
   "https://github.com/msitarzewski/agency-agents": {
     "score": 147378,
@@ -140,9 +141,9 @@
     "last_sent": "2026-07-20"
   },
   "https://github.com/paperclipai/paperclip": {
-    "score": 74228,
+    "score": 79248,
     "fingerprint": "d44e71edb47d4cbde83923a19ed93dfe6d9f641a9d2b5ac8c1d042733187bcea",
-    "last_sent": "2026-07-20"
+    "last_sent": "2026-08-24"
   },
   "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials": {
     "score": 0,
@@ -713,5 +714,10 @@
     "score": 0,
     "fingerprint": "8cf718ee58d7c171f701ec34c1f23959f10074ccd94bfc21985488f8dfb98bb6",
     "last_sent": "2026-08-23"
+  },
+  "https://github.com/ahmadshady747-create/LOCUS": {
+    "score": 0,
+    "fingerprint": "2f260165f39930878f483a15dfe0d8ada9f212fa3dbbb4d79d51be7473fa646c",
+    "last_sent": "2026-08-24"
   }
 }
