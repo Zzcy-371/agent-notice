@@ -10,9 +10,9 @@
     "last_sent": "2026-07-30"
   },
   "https://github.com/NousResearch/hermes-agent": {
-    "score": 221013,
+    "score": 236441,
     "fingerprint": "67c528cf73c310a2be5ba4a2429a6e470cc0425e46b4fe0ce31515ddd259f4e8",
-    "last_sent": "2026-07-27"
+    "last_sent": "2026-08-26"
   },
   "https://github.com/ultraworkers/claw-code": {
     "score": 194752,
@@ -739,5 +739,20 @@
     "score": 0,
     "fingerprint": "b43c2bc39a35686d97d9a701516e2be57f3f2713f91a43f3753a2b97c9a5ae17",
     "last_sent": "2026-08-25"
+  },
+  "https://vercel.com/customers/how-ora-benchmarks-every-major-ai-agent-on-vercel": {
+    "score": 0,
+    "fingerprint": "1b2730275fdd169fb4b4c2ebf14eb3d5db7fa579649ebf8cb6fc3efa27538cfc",
+    "last_sent": "2026-08-26"
+  },
+  "https://news.ycombinator.com/item?id=49442369": {
+    "score": 0,
+    "fingerprint": "b65879f5256e74695d7cf704eb391e3806a68a32068688d6c94b1ee1750e5045",
+    "last_sent": "2026-08-26"
+  },
+  "https://williamtp.substack.com/p/the-ai-health-agent-that-will-know": {
+    "score": 0,
+    "fingerprint": "73590335208eef23327475ce1a990f4f1a352498b1b33ce53210bf7d4627d5f6",
+    "last_sent": "2026-08-26"
   }
 }
