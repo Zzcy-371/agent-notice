@@ -754,5 +754,25 @@
     "score": 0,
     "fingerprint": "73590335208eef23327475ce1a990f4f1a352498b1b33ce53210bf7d4627d5f6",
     "last_sent": "2026-08-26"
+  },
+  "https://github.com/langchain-ai/deepagents": {
+    "score": 0,
+    "fingerprint": "2260ce62c91322ffd836cda13445656e48cb0dd0f4b335db5f5aff1d994f2e1a",
+    "last_sent": "2026-08-27"
+  },
+  "https://www.taskshell.app/": {
+    "score": 0,
+    "fingerprint": "1f7bf6121acd64733035bf40046580bc466f4a5e661e048cf3166ae3164a348b",
+    "last_sent": "2026-08-27"
+  },
+  "https://news.ycombinator.com/item?id=49461055": {
+    "score": 0,
+    "fingerprint": "8637ebc2473b739f41af7cfa0e4f082f9c2f6a076d1c09d4c12fa3696a228791",
+    "last_sent": "2026-08-27"
+  },
+  "https://arxiv.org/abs/2608.23622": {
+    "score": 0,
+    "fingerprint": "e11463f711d05a16aaf486265be68a39f20d08b79000ad61cc2c5b21af6a7dc2",
+    "last_sent": "2026-08-27"
   }
 }
