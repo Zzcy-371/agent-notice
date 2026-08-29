@@ -5,9 +5,9 @@
     "last_sent": "2026-08-24"
   },
   "https://github.com/affaan-m/ECC": {
-    "score": 235676,
+    "score": 244018,
     "fingerprint": "c99d4b8fb94066db76224fc1bc8dfb91c2be0930dd828f63cd147e90a7e36bf7",
-    "last_sent": "2026-07-30"
+    "last_sent": "2026-08-29"
   },
   "https://github.com/NousResearch/hermes-agent": {
     "score": 236441,
@@ -794,5 +794,20 @@
     "score": 0,
     "fingerprint": "1c2f4688e4682ba496236f2db696c8b330c4886e84385f5a83b120bb800ec5a8",
     "last_sent": "2026-08-28"
+  },
+  "https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai-agent": {
+    "score": 0,
+    "fingerprint": "e7ceb7b27168229af49c45c646f5baff044b1edb77b652cf005c3515add4a880",
+    "last_sent": "2026-08-29"
+  },
+  "https://www.roderick.dev/writing/2026-08-28-obsessing-harnesses": {
+    "score": 0,
+    "fingerprint": "2b922502a1ef157fda9c7fbb039953c2d52af53400ae0033fc63bf41d81b3634",
+    "last_sent": "2026-08-29"
+  },
+  "https://github.com/Wholiver/metis": {
+    "score": 0,
+    "fingerprint": "11007976dca85d3c948104f27440035b3d03a8ce4134d6d37b6cc92866901694",
+    "last_sent": "2026-08-29"
   }
 }
