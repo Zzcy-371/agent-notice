@@ -19,9 +19,9 @@
     "fingerprint": "d798dfa02ac9a672e1f160938158b1bf677c96f5a1476f27efcfe40eb753eae2"
   },
   "https://github.com/anomalyco/opencode": {
-    "score": 191300,
+    "score": 202425,
     "fingerprint": "e022a953fa38f1ea4d78f31e67ca1b559f05ca52f46d03f89e55419c8b0f95d7",
-    "last_sent": "2026-07-31"
+    "last_sent": "2026-08-30"
   },
   "https://github.com/anthropics/skills": {
     "score": 166518,
@@ -809,5 +809,20 @@
     "score": 0,
     "fingerprint": "11007976dca85d3c948104f27440035b3d03a8ce4134d6d37b6cc92866901694",
     "last_sent": "2026-08-29"
+  },
+  "https://www.dwarkesh.com/p/openai-huggingface": {
+    "score": 0,
+    "fingerprint": "5168d9ac1b56c51f7e9e401458dbeb1feb58b2b7353265e0724eb411570e6302",
+    "last_sent": "2026-08-30"
+  },
+  "https://sandbox.watch/": {
+    "score": 0,
+    "fingerprint": "d08fb1559c37470bd438d850879640a03bf06ed80bcb3430bc5b774239f14f51",
+    "last_sent": "2026-08-30"
+  },
+  "https://substructure.ai/": {
+    "score": 0,
+    "fingerprint": "63ceaf3c24c7b6dfb484d10432b6497bf7caf58d29983140ea737d6414d63306",
+    "last_sent": "2026-08-30"
   }
 }
