@@ -879,5 +879,25 @@
     "score": 0,
     "fingerprint": "1140e5a186840ad35bc272205f13c38fabb4421f0337233c20c9d8914a1b1c8a",
     "last_sent": "2026-09-02"
+  },
+  "https://bartholomew.info/": {
+    "score": 0,
+    "fingerprint": "12eb82b9aae2352649f4cef8c8a3c0f49fcbd0d6c2d36fd9bbf06413e979baf5",
+    "last_sent": "2026-09-03"
+  },
+  "https://arxiv.org/abs/2609.01814": {
+    "score": 0,
+    "fingerprint": "a96c2a7611249ce7f7d3684e74429afa367d91867c57ced2fd7e4b8014a3ed81",
+    "last_sent": "2026-09-03"
+  },
+  "https://arxiv.org/abs/2609.01852": {
+    "score": 0,
+    "fingerprint": "a4bb0b524a42bf3a1943b1c5d6f6ad944844c179a6d04ae0a66f8894f970842b",
+    "last_sent": "2026-09-03"
+  },
+  "https://arxiv.org/abs/2609.01861": {
+    "score": 0,
+    "fingerprint": "b98680d48fd99972a4d9d0b8a2098c2a5544dd0d38fee424ba8074e5b52922b4",
+    "last_sent": "2026-09-03"
   }
 }
