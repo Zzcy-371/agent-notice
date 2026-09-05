@@ -24,9 +24,9 @@
     "last_sent": "2026-08-30"
   },
   "https://github.com/anthropics/skills": {
-    "score": 166518,
+    "score": 174191,
     "fingerprint": "a314cbfb2e30e756de68623f0c29e97af5001d3bad01f181c09954fe0c1f5e90",
-    "last_sent": "2026-08-06"
+    "last_sent": "2026-09-05"
   },
   "https://github.com/langflow-ai/langflow": {
     "score": 151923,
@@ -919,5 +919,20 @@
     "score": 0,
     "fingerprint": "060322867fa2fce9d4fd51d60ea09ddced5e9761f0d63d9b3d4ec1d3c124cec8",
     "last_sent": "2026-09-04"
+  },
+  "https://arxiv.org/abs/2609.03416": {
+    "score": 0,
+    "fingerprint": "fc55d28ed2fda57baf1a5dfbd003338384055bd6bfe3a1ab410c3771ee7505be",
+    "last_sent": "2026-09-05"
+  },
+  "https://arxiv.org/abs/2609.03423": {
+    "score": 0,
+    "fingerprint": "e7e1ad0fd9e51cfd6c4baaf81969087e07120ba65933b18feda04acb12f69256",
+    "last_sent": "2026-09-05"
+  },
+  "https://arxiv.org/abs/2609.03438": {
+    "score": 0,
+    "fingerprint": "d5e4abcbb6a312ab34f7fd3a8dcd1f50df0722e14d246be6e108263146b9452b",
+    "last_sent": "2026-09-05"
   }
 }
