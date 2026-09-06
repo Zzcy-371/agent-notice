@@ -33,9 +33,9 @@
     "fingerprint": "5dcaca0bd6239b0127be99e2780720a9c273476ef5704512393c11f9c50b51be"
   },
   "https://github.com/langgenius/dify": {
-    "score": 149546,
+    "score": 154554,
     "fingerprint": "d4ea4acf9a18f8b64032d85736a987d22194ca1519f9d28b19bfa0dd90b7020d",
-    "last_sent": "2026-07-21"
+    "last_sent": "2026-09-06"
   },
   "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
     "score": 141867,
@@ -934,5 +934,20 @@
     "score": 0,
     "fingerprint": "d5e4abcbb6a312ab34f7fd3a8dcd1f50df0722e14d246be6e108263146b9452b",
     "last_sent": "2026-09-05"
+  },
+  "https://github.com/bshea-1/Routed": {
+    "score": 0,
+    "fingerprint": "f8576f1d353729e6a2caf10f5e75e0033f23888c59203f53788a1ddfac08d733",
+    "last_sent": "2026-09-06"
+  },
+  "https://mmoustafa.com/blog/2026/09/05/how-to-make-your-agent-do-its-own-support": {
+    "score": 0,
+    "fingerprint": "79d5a0074b45b34f876149a8d660d6ea68dd5c95c589fa219436dc168cbaa947",
+    "last_sent": "2026-09-06"
+  },
+  "https://www.openmonitor.website/": {
+    "score": 0,
+    "fingerprint": "f17ed45ada884cb2715e7ddb366ed2dc7118b1c0752a3479225480e261ae4cce",
+    "last_sent": "2026-09-06"
   }
 }
