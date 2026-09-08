@@ -969,5 +969,25 @@
     "score": 0,
     "fingerprint": "5ae6e079cbc16fa8bb4436073934216515ddfddda60bfc26b60e95c69fa2b2e0",
     "last_sent": "2026-09-07"
+  },
+  "https://grainulator.app": {
+    "score": 0,
+    "fingerprint": "65336876427618508b4f2aeb7268ed1d8a45e0fd4661279f6a0aa37c7d0b11a0",
+    "last_sent": "2026-09-08"
+  },
+  "https://sidepulse.io/": {
+    "score": 0,
+    "fingerprint": "cd338c8f909d0d89bd33db467fd1fcfb319e95853b1385716ce5227a298adda9",
+    "last_sent": "2026-09-08"
+  },
+  "https://ai-visibility.lastminutedealshq.com/robots-txt-user-agent-tokens": {
+    "score": 0,
+    "fingerprint": "9c84fec25bc5a9bfc0d2b4998dae5d2c0a34dcf116c9e8497299274279bfe3b5",
+    "last_sent": "2026-09-08"
+  },
+  "https://hermes-agent.nousresearch.com/docs/user-guide/features/kanban": {
+    "score": 0,
+    "fingerprint": "7c81675d34df22de0ab383543802207350843ed10a9985e510cc1825591e6600",
+    "last_sent": "2026-09-08"
   }
 }
