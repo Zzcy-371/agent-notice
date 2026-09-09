@@ -989,5 +989,25 @@
     "score": 0,
     "fingerprint": "7c81675d34df22de0ab383543802207350843ed10a9985e510cc1825591e6600",
     "last_sent": "2026-09-08"
+  },
+  "https://arxiv.org/abs/2609.05441": {
+    "score": 0,
+    "fingerprint": "14262d64914d3beee542b6f163a53711a90a4269eec4cb7ffbeff15ad4542790",
+    "last_sent": "2026-09-09"
+  },
+  "https://arxiv.org/abs/2609.05446": {
+    "score": 0,
+    "fingerprint": "40dcf5d570a3b67328702d85bede5588d0344265489ea22b91c8262e8f613dba",
+    "last_sent": "2026-09-09"
+  },
+  "https://arxiv.org/abs/2609.05459": {
+    "score": 0,
+    "fingerprint": "d20bc0f285faef5c3642737267128f8db8ab75259571e284e5c9fed9d0107176",
+    "last_sent": "2026-09-09"
+  },
+  "https://arxiv.org/abs/2609.05511": {
+    "score": 0,
+    "fingerprint": "65fd7655de6a757fd9d5196463bf133f0f216e9552893a33e63ce794f873ce77",
+    "last_sent": "2026-09-09"
   }
 }
