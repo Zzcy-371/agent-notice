@@ -116,9 +116,9 @@
     "last_sent": "2026-09-01"
   },
   "https://github.com/infiniflow/ragflow": {
-    "score": 85356,
+    "score": 90410,
     "fingerprint": "ea622094a0ea662b2380e977a83b12cd2cbfeaaa51e929f23f0265dc6205c58b",
-    "last_sent": "2026-07-19"
+    "last_sent": "2026-09-10"
   },
   "https://github.com/lobehub/lobehub": {
     "score": 80492,
@@ -1009,5 +1009,20 @@
     "score": 0,
     "fingerprint": "65fd7655de6a757fd9d5196463bf133f0f216e9552893a33e63ce794f873ce77",
     "last_sent": "2026-09-09"
+  },
+  "https://arxiv.org/abs/2609.09203": {
+    "score": 0,
+    "fingerprint": "d7b648f547eb76d20948002cf7f62352f1fb2f63ddfb4d8b54342fb579728d9f",
+    "last_sent": "2026-09-10"
+  },
+  "https://arxiv.org/abs/2609.09226": {
+    "score": 0,
+    "fingerprint": "f994f5d4aa0407a4c5ebdc671d3ffa94abbf40cb8e5e398d245fba1c9762dc07",
+    "last_sent": "2026-09-10"
+  },
+  "https://arxiv.org/abs/2609.09233": {
+    "score": 0,
+    "fingerprint": "2d150e99abbfebcd62429aaf62a1b93e55b70fba25e0255e71ca00638019a9aa",
+    "last_sent": "2026-09-10"
   }
 }
