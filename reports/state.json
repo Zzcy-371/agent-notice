@@ -56,14 +56,14 @@
     "last_sent": "2026-08-23"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
-    "score": 132764,
+    "score": 138228,
     "fingerprint": "d65aaf7354f913df0b2fc03f2bdb57270f1fff908558efae93f101acc95a14ba",
-    "last_sent": "2026-08-16"
+    "last_sent": "2026-09-15"
   },
   "https://github.com/farion1231/cc-switch": {
-    "score": 127423,
+    "score": 132900,
     "fingerprint": "ed5f4310ddda953d9be2e9b46ebf91800151a8b7c32cdaa88739d18ccbb4317c",
-    "last_sent": "2026-08-16"
+    "last_sent": "2026-09-15"
   },
   "https://github.com/google-gemini/gemini-cli": {
     "score": 106025,
@@ -76,9 +76,9 @@
     "last_sent": "2026-08-23"
   },
   "https://github.com/DietrichGebert/ponytail": {
-    "score": 103377,
+    "score": 138627,
     "fingerprint": "7d079e3e15e1672385ae4cbadc5e7de19821e3037216533c19198f7aa31cbe70",
-    "last_sent": "2026-08-16"
+    "last_sent": "2026-09-15"
   },
   "https://github.com/nexu-io/open-design": {
     "score": 86964,
@@ -1089,5 +1089,10 @@
     "score": 0,
     "fingerprint": "ebc046c4da8e91dbacd0ac82d357dbdbe67e2dcc5a6b27ebc4bf9d0952583a57",
     "last_sent": "2026-09-14"
+  },
+  "https://github.com/JuliusBrussee/caveman": {
+    "score": 105622,
+    "fingerprint": "32481fa7e3452ca978d9f940d591bb3ba2159b2598a28be029bafbdc0b3030b2",
+    "last_sent": "2026-09-15"
   }
 }
