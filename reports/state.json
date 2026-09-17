@@ -81,9 +81,9 @@
     "last_sent": "2026-09-15"
   },
   "https://github.com/nexu-io/open-design": {
-    "score": 86964,
-    "fingerprint": "b887edfe63a95cff127bf0046c94cca473ed609e83622f68f4ebaa3019799778",
-    "last_sent": "2026-08-16"
+    "score": 96610,
+    "fingerprint": "dce46892146c71c2b49758ed06cd9235172f67d2081eaf8ebde41bf6de97e622",
+    "last_sent": "2026-09-17"
   },
   "https://github.com/mattpocock/skills": {
     "score": 262988,
@@ -1094,5 +1094,20 @@
     "score": 105622,
     "fingerprint": "32481fa7e3452ca978d9f940d591bb3ba2159b2598a28be029bafbdc0b3030b2",
     "last_sent": "2026-09-15"
+  },
+  "https://arxiv.org/abs/2609.17632": {
+    "score": 0,
+    "fingerprint": "5b47459809fa18478566575a1fd939ed0e3e5ecad6d6b5955c6bbbf341b7a2d0",
+    "last_sent": "2026-09-17"
+  },
+  "https://arxiv.org/abs/2609.17695": {
+    "score": 0,
+    "fingerprint": "c5198b3c4097f3f98fcbb8d5c81ebc0f9fcd807d4b3b3e0464624da1eea54ce8",
+    "last_sent": "2026-09-17"
+  },
+  "https://arxiv.org/abs/2609.17699": {
+    "score": 0,
+    "fingerprint": "9d2cb14d12209e189d3669eca2a146376cdea92f6cf5cee61c82951cc8c12dcf",
+    "last_sent": "2026-09-17"
   }
 }
