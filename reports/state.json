@@ -126,9 +126,9 @@
     "last_sent": "2026-07-19"
   },
   "https://github.com/addyosmani/agent-skills": {
-    "score": 88401,
+    "score": 95969,
     "fingerprint": "4affa527cf478fd954bc9135ad972b89c3b334e60b40edabfdfef6538833df3a",
-    "last_sent": "2026-08-19"
+    "last_sent": "2026-09-18"
   },
   "https://github.com/dair-ai/Prompt-Engineering-Guide": {
     "score": 76752,
@@ -1109,5 +1109,20 @@
     "score": 0,
     "fingerprint": "9d2cb14d12209e189d3669eca2a146376cdea92f6cf5cee61c82951cc8c12dcf",
     "last_sent": "2026-09-17"
+  },
+  "https://arxiv.org/abs/2609.19180": {
+    "score": 0,
+    "fingerprint": "90c5265c68c7256a05f21a16879016bf5c0e12b8da0461423b475032c2bd3760",
+    "last_sent": "2026-09-18"
+  },
+  "https://arxiv.org/abs/2609.19182": {
+    "score": 0,
+    "fingerprint": "332618243fabbdeafaebea3cc8214013f724cf8ca41d25a2686f05943b8078d1",
+    "last_sent": "2026-09-18"
+  },
+  "https://arxiv.org/abs/2609.19203": {
+    "score": 0,
+    "fingerprint": "32e268cefbbcc603806f964cb62b050c2554e3e8af75a364a94289f5ee64827b",
+    "last_sent": "2026-09-18"
   }
 }
