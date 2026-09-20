@@ -42,8 +42,9 @@
     "fingerprint": "08ee7573127e0c7f9f1fb4b897d5c24da8d1192940181a0d699d22c95865d891"
   },
   "https://github.com/langchain-ai/langchain": {
-    "score": 141658,
-    "fingerprint": "93823720f2b41ad2d8b2d26161f0e12d2c07188ee9418634117ddce531b0085e"
+    "score": 146696,
+    "fingerprint": "93823720f2b41ad2d8b2d26161f0e12d2c07188ee9418634117ddce531b0085e",
+    "last_sent": "2026-09-20"
   },
   "https://github.com/anthropics/claude-code": {
     "score": 142768,
@@ -161,9 +162,9 @@
     "last_sent": "2026-07-21"
   },
   "https://github.com/earendil-works/pi": {
-    "score": 94448,
+    "score": 107406,
     "fingerprint": "8d197026c00a565ab7cc03d9494597b3e6014ed96e28e7de69a83b14c0533406",
-    "last_sent": "2026-08-21"
+    "last_sent": "2026-09-20"
   },
   "https://smoke-break.pineapplefreefall.com": {
     "score": 0,
@@ -1144,5 +1145,15 @@
     "score": 0,
     "fingerprint": "df889cc997344d3790b17927bdaf18c6b3e6e42374ce01f479f7486448157ca8",
     "last_sent": "2026-09-19"
+  },
+  "https://aiworthusing.com/agent-index/text-me": {
+    "score": 0,
+    "fingerprint": "c93c4d0146db6a2d643b241d142394833c59e30c466c0925aff4181541249c11",
+    "last_sent": "2026-09-20"
+  },
+  "https://news.ycombinator.com/item?id=49770744": {
+    "score": 0,
+    "fingerprint": "6b6b810aa66f2a50b3e5f1c0a76975ee2df2714e1b2b9ba04c2661b63f067ca8",
+    "last_sent": "2026-09-20"
   }
 }
