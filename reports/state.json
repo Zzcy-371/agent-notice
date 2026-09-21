@@ -1155,5 +1155,25 @@
     "score": 0,
     "fingerprint": "6b6b810aa66f2a50b3e5f1c0a76975ee2df2714e1b2b9ba04c2661b63f067ca8",
     "last_sent": "2026-09-20"
+  },
+  "https://news.ycombinator.com/item?id=49783040": {
+    "score": 0,
+    "fingerprint": "b92bcdc1ab33bd3acfbda256614f2cec169bb005024f709c1cf1b34141cbc39e",
+    "last_sent": "2026-09-21"
+  },
+  "https://arxiv.org/abs/2609.21157": {
+    "score": 0,
+    "fingerprint": "8c795285f1c2e0f8b556872de8c09ae239e9782fed46eb80d87857981961fc8c",
+    "last_sent": "2026-09-21"
+  },
+  "https://arxiv.org/abs/2609.21165": {
+    "score": 0,
+    "fingerprint": "df97e8b229ec06b5c7369ea59638d1e6aa5281e5862842a11cc03177074f0394",
+    "last_sent": "2026-09-21"
+  },
+  "https://arxiv.org/abs/2609.21192": {
+    "score": 0,
+    "fingerprint": "11550c838e3db9bec8c2387f30ef1ba5128e3698058021ca77d6788bbb40bb98",
+    "last_sent": "2026-09-21"
   }
 }
