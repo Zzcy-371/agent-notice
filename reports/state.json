@@ -52,9 +52,9 @@
     "last_sent": "2026-08-24"
   },
   "https://github.com/msitarzewski/agency-agents": {
-    "score": 147378,
+    "score": 154023,
     "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd",
-    "last_sent": "2026-08-23"
+    "last_sent": "2026-09-22"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
     "score": 138228,
@@ -72,9 +72,9 @@
     "last_sent": "2026-07-17"
   },
   "https://github.com/browser-use/browser-use": {
-    "score": 110151,
-    "fingerprint": "32310c1bdbe4f2889e2b51ec523049d8404433ceb19961cc091e19c3f32b5eee",
-    "last_sent": "2026-08-23"
+    "score": 115813,
+    "fingerprint": "80e5a9114d04d2b61ea74589bfb4d646fc1018cc22534365141fe93ce1570f2a",
+    "last_sent": "2026-09-22"
   },
   "https://github.com/DietrichGebert/ponytail": {
     "score": 138627,
@@ -107,9 +107,9 @@
     "last_sent": "2026-09-16"
   },
   "https://github.com/karpathy/autoresearch": {
-    "score": 91500,
+    "score": 96506,
     "fingerprint": "59f07d2abaafa6e2228c6a11ceb1d45827fb94a235462f01a84a4a4f20272e96",
-    "last_sent": "2026-07-19"
+    "last_sent": "2026-09-22"
   },
   "https://github.com/thedotmack/claude-mem": {
     "score": 92788,
@@ -1175,5 +1175,10 @@
     "score": 0,
     "fingerprint": "11550c838e3db9bec8c2387f30ef1ba5128e3698058021ca77d6788bbb40bb98",
     "last_sent": "2026-09-21"
+  },
+  "https://doyouok.com/": {
+    "score": 0,
+    "fingerprint": "c535eb41fc564a889e3c2d731fae30290e30b12be57b2506b2fdc060d59a6ac1",
+    "last_sent": "2026-09-22"
   }
 }
