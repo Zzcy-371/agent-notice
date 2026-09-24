@@ -47,9 +47,9 @@
     "last_sent": "2026-09-20"
   },
   "https://github.com/anthropics/claude-code": {
-    "score": 142768,
+    "score": 147832,
     "fingerprint": "49065a8d6b6ab94bb289c9c4d62d7898c81c5ba1390302ef4a4347b85914988b",
-    "last_sent": "2026-08-24"
+    "last_sent": "2026-09-24"
   },
   "https://github.com/msitarzewski/agency-agents": {
     "score": 154023,
@@ -1195,5 +1195,20 @@
     "score": 0,
     "fingerprint": "2f379f159e168c5014bdc485601b0c1f0724fa1453f2c14683097f0318eab552",
     "last_sent": "2026-09-23"
+  },
+  "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202": {
+    "score": 0,
+    "fingerprint": "711f456ccbe416fec9c013c9c1ac4f3d62703fe5758231b8d1826cf7fd657026",
+    "last_sent": "2026-09-24"
+  },
+  "https://www.bbc.com/news/articles/c6vgy0333dppo": {
+    "score": 0,
+    "fingerprint": "b68f7fdf0811b002931d7acaac61cedc73737cc1670f2eb4634bbd1a5231c5df",
+    "last_sent": "2026-09-24"
+  },
+  "https://arxiv.org/abs/2609.25286": {
+    "score": 0,
+    "fingerprint": "ef9f517caf4831b482dd25b867f7fd036138fce2c3f754357650140e123e0c18",
+    "last_sent": "2026-09-24"
   }
 }
