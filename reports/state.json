@@ -10,9 +10,9 @@
     "last_sent": "2026-08-29"
   },
   "https://github.com/NousResearch/hermes-agent": {
-    "score": 236441,
+    "score": 248770,
     "fingerprint": "67c528cf73c310a2be5ba4a2429a6e470cc0425e46b4fe0ce31515ddd259f4e8",
-    "last_sent": "2026-08-26"
+    "last_sent": "2026-09-25"
   },
   "https://github.com/ultraworkers/claw-code": {
     "score": 194752,
@@ -1210,5 +1210,20 @@
     "score": 0,
     "fingerprint": "ef9f517caf4831b482dd25b867f7fd036138fce2c3f754357650140e123e0c18",
     "last_sent": "2026-09-24"
+  },
+  "https://arxiv.org/abs/2609.28475": {
+    "score": 0,
+    "fingerprint": "3a64b35e059de8ec2483fafc7e499b9d91775672ef86fc4d272f73f892e72e7e",
+    "last_sent": "2026-09-25"
+  },
+  "https://arxiv.org/abs/2609.28506": {
+    "score": 0,
+    "fingerprint": "142d0d19983a2e4ba21f183326a35f07da700dfa45b654732d0889509c15abc2",
+    "last_sent": "2026-09-25"
+  },
+  "https://arxiv.org/abs/2609.28547": {
+    "score": 0,
+    "fingerprint": "6b921f7d3c87b58a9809ce7a45a42c637b6cfdb89dc9a6c15f89e1f00fa97364",
+    "last_sent": "2026-09-25"
   }
 }
