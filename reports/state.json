@@ -142,9 +142,9 @@
     "last_sent": "2026-07-20"
   },
   "https://github.com/paperclipai/paperclip": {
-    "score": 79248,
+    "score": 85289,
     "fingerprint": "d44e71edb47d4cbde83923a19ed93dfe6d9f641a9d2b5ac8c1d042733187bcea",
-    "last_sent": "2026-08-24"
+    "last_sent": "2026-09-26"
   },
   "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials": {
     "score": 0,
@@ -1225,5 +1225,20 @@
     "score": 0,
     "fingerprint": "6b921f7d3c87b58a9809ce7a45a42c637b6cfdb89dc9a6c15f89e1f00fa97364",
     "last_sent": "2026-09-25"
+  },
+  "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot": {
+    "score": 0,
+    "fingerprint": "0642738998376dfdddf6f75e71ebdf73140b4065d2efca4b1db81bb7e9bfcae4",
+    "last_sent": "2026-09-26"
+  },
+  "https://github.com/racetozero/kiss": {
+    "score": 0,
+    "fingerprint": "794790e65dd9a4ca38f99c1cbfa62f0ea7ef5c6479a886cedbaec916ce7f18b2",
+    "last_sent": "2026-09-26"
+  },
+  "https://arxiv.org/abs/2608.02680": {
+    "score": 0,
+    "fingerprint": "381965b96597db22887f42fc20c2f16bd1a9de646569ef89c03e3acc38437342",
+    "last_sent": "2026-09-26"
   }
 }
