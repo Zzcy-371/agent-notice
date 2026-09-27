@@ -1240,5 +1240,25 @@
     "score": 0,
     "fingerprint": "381965b96597db22887f42fc20c2f16bd1a9de646569ef89c03e3acc38437342",
     "last_sent": "2026-09-26"
+  },
+  "https://peertalk.ai": {
+    "score": 0,
+    "fingerprint": "45c72f55a90bdb13c49c8b05437f3fb2c23c95752456ef5d527006f52d51495a",
+    "last_sent": "2026-09-27"
+  },
+  "https://www.cognee.ai/agent-memory": {
+    "score": 0,
+    "fingerprint": "9709a3c63ee27424fae64829294e7db081171bd0bc10a9c02622bb9deae51d22",
+    "last_sent": "2026-09-27"
+  },
+  "https://github.com/thruwire/foreman": {
+    "score": 0,
+    "fingerprint": "b85a6a9348f0371be03c23a840079be8bf0b5edb87d63be442199bb06c722eb3",
+    "last_sent": "2026-09-27"
+  },
+  "https://madrobot.blog/2026/09/26/openai-agent-escaped-sandbox-dns-external-chatbot-models-paused": {
+    "score": 0,
+    "fingerprint": "f51c13e709eeadba3f152bf1091f7035dc602b127f5284fb98572c696557d95d",
+    "last_sent": "2026-09-27"
   }
 }
