@@ -5,9 +5,9 @@
     "last_sent": "2026-09-23"
   },
   "https://github.com/affaan-m/ECC": {
-    "score": 244018,
+    "score": 268522,
     "fingerprint": "c99d4b8fb94066db76224fc1bc8dfb91c2be0930dd828f63cd147e90a7e36bf7",
-    "last_sent": "2026-08-29"
+    "last_sent": "2026-09-28"
   },
   "https://github.com/NousResearch/hermes-agent": {
     "score": 248770,
@@ -1260,5 +1260,20 @@
     "score": 0,
     "fingerprint": "f51c13e709eeadba3f152bf1091f7035dc602b127f5284fb98572c696557d95d",
     "last_sent": "2026-09-27"
+  },
+  "https://arxiv.org/abs/2609.30291": {
+    "score": 0,
+    "fingerprint": "90cc3fa7750d7a0e3c17dc4bf7389eb36c0acad1959c9b1fdf1aa62125ed45df",
+    "last_sent": "2026-09-28"
+  },
+  "https://arxiv.org/abs/2609.30325": {
+    "score": 0,
+    "fingerprint": "7391384da66f1b01ca20bfd9a77d8f4f6b001db3ca834c451ccf70b754aeba7d",
+    "last_sent": "2026-09-28"
+  },
+  "https://arxiv.org/abs/2609.30328": {
+    "score": 0,
+    "fingerprint": "caa1e28b7c63b2dbde2123cc61c0735c459e6f805da7208f0b32cb5c2f96a814",
+    "last_sent": "2026-09-28"
   }
 }
