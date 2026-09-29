@@ -19,9 +19,9 @@
     "fingerprint": "d798dfa02ac9a672e1f160938158b1bf677c96f5a1476f27efcfe40eb753eae2"
   },
   "https://github.com/anomalyco/opencode": {
-    "score": 202425,
+    "score": 210686,
     "fingerprint": "e022a953fa38f1ea4d78f31e67ca1b559f05ca52f46d03f89e55419c8b0f95d7",
-    "last_sent": "2026-08-30"
+    "last_sent": "2026-09-29"
   },
   "https://github.com/anthropics/skills": {
     "score": 174191,
@@ -1275,5 +1275,20 @@
     "score": 0,
     "fingerprint": "caa1e28b7c63b2dbde2123cc61c0735c459e6f805da7208f0b32cb5c2f96a814",
     "last_sent": "2026-09-28"
+  },
+  "https://arxiv.org/abs/2609.31763": {
+    "score": 0,
+    "fingerprint": "06c676d9a3eb24103a0b8b8717afa91d7467b043c9e882828dbe26ccd198aebc",
+    "last_sent": "2026-09-29"
+  },
+  "https://arxiv.org/abs/2609.31790": {
+    "score": 0,
+    "fingerprint": "ac715e1c2d828530ebe0bccf31f2003990a978aa23ec0016ab8b4a60a9c6d3e8",
+    "last_sent": "2026-09-29"
+  },
+  "https://arxiv.org/abs/2609.31874": {
+    "score": 0,
+    "fingerprint": "e72107b982330ce8666ccd508b87c760ce6bc0e8a00bc18a57c6fd77773c840a",
+    "last_sent": "2026-09-29"
   }
 }
