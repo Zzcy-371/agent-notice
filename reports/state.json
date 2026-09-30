@@ -1290,5 +1290,25 @@
     "score": 0,
     "fingerprint": "e72107b982330ce8666ccd508b87c760ce6bc0e8a00bc18a57c6fd77773c840a",
     "last_sent": "2026-09-29"
+  },
+  "https://github.com/firecrawl/firecrawl": {
+    "score": 186761,
+    "fingerprint": "f9bf74db13de88adac6f94eecc5d1c0be435a99841a0e12792ba21fc407f13a4",
+    "last_sent": "2026-09-30"
+  },
+  "https://instapath.ai/": {
+    "score": 0,
+    "fingerprint": "c4eb371252e0ac12f1468d7c8bac322c198ff429be9e785c79a1b2e416915fca",
+    "last_sent": "2026-09-30"
+  },
+  "https://arxiv.org/abs/2609.35799": {
+    "score": 0,
+    "fingerprint": "35114b9b5c22408731c587426b0ac05949ea3f884c621a82f4bc000dfac0545a",
+    "last_sent": "2026-09-30"
+  },
+  "https://arxiv.org/abs/2609.35833": {
+    "score": 0,
+    "fingerprint": "92b4e26502a9b32fb2d7d5fd588df4bd4db141c066d73d0a0d5142d1e5860bf9",
+    "last_sent": "2026-09-30"
   }
 }
