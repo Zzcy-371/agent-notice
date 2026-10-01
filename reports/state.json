@@ -1310,5 +1310,25 @@
     "score": 0,
     "fingerprint": "92b4e26502a9b32fb2d7d5fd588df4bd4db141c066d73d0a0d5142d1e5860bf9",
     "last_sent": "2026-09-30"
+  },
+  "https://apify.com/donerightlabs/tender-intelligence": {
+    "score": 0,
+    "fingerprint": "97a562c6104e9c97a5c8b4e005ea4cfe1ec85fae70825eebf2fb2e9f384c830d",
+    "last_sent": "2026-10-01"
+  },
+  "https://arxiv.org/abs/2609.38288": {
+    "score": 0,
+    "fingerprint": "396a14928ca0c1c85a5b1b67271a920b8a66c119ec5b6af996403c4350811081",
+    "last_sent": "2026-10-01"
+  },
+  "https://arxiv.org/abs/2609.38294": {
+    "score": 0,
+    "fingerprint": "9905570eec4f0ef851d657b53664d7614b9e79bfd1555ae8739e0b68e1892c59",
+    "last_sent": "2026-10-01"
+  },
+  "https://arxiv.org/abs/2609.38296": {
+    "score": 0,
+    "fingerprint": "2d0a5bfbc525c86b215d6245074a3f8e66f386a1ecd2cdc2282087c31313f486",
+    "last_sent": "2026-10-01"
   }
 }
