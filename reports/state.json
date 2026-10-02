@@ -1330,5 +1330,25 @@
     "score": 0,
     "fingerprint": "2d0a5bfbc525c86b215d6245074a3f8e66f386a1ecd2cdc2282087c31313f486",
     "last_sent": "2026-10-01"
+  },
+  "https://plexdata.online/articles/keep-agent-mistakes-off-live-site": {
+    "score": 0,
+    "fingerprint": "9e3b42368d1a5edbaee39bdcc72443bf8bffbc9800d7eebab89b3709ac60a99e",
+    "last_sent": "2026-10-02"
+  },
+  "https://arxiv.org/abs/2610.00010": {
+    "score": 0,
+    "fingerprint": "72711198c65e9f97426ab871d4037052b0901670959f68be45d6c11c7238e4c3",
+    "last_sent": "2026-10-02"
+  },
+  "https://arxiv.org/abs/2610.00012": {
+    "score": 0,
+    "fingerprint": "284643e0a7e1446d8f411a841ee7ee5416036953c57f94318217601e80595d4b",
+    "last_sent": "2026-10-02"
+  },
+  "https://arxiv.org/abs/2610.00015": {
+    "score": 0,
+    "fingerprint": "8431f4bc80628575c4a195fd65d845aae1f30476feec78ced1b9399bd6201fa9",
+    "last_sent": "2026-10-02"
   }
 }
