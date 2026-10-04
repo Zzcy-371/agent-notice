@@ -1370,5 +1370,25 @@
     "score": 0,
     "fingerprint": "96a4b577b523b32359c15bedd89e09272a2470cd9c44f2073261e2f50e2af024",
     "last_sent": "2026-10-03"
+  },
+  "https://arxiv.org/abs/2606.08919": {
+    "score": 0,
+    "fingerprint": "aceeb07ede16a0f385b7b7fcb2f776f17c2d49dd930bad68bb57f6accb59c39f",
+    "last_sent": "2026-10-04"
+  },
+  "https://kimchi.dev/": {
+    "score": 0,
+    "fingerprint": "d79f4555921a60d99739bb0d74563b15af85632bd7c0080a41e94e4cc49bb6b0",
+    "last_sent": "2026-10-04"
+  },
+  "https://github.com/SyncSo-Inc/syncso": {
+    "score": 0,
+    "fingerprint": "6e6a337282fb6ee5d2c3530e3cb6d5a38e8b22d8a023f98975053aeaef5849f6",
+    "last_sent": "2026-10-04"
+  },
+  "https://agentiloop.ai/": {
+    "score": 0,
+    "fingerprint": "be7288c020b1cf482c5ad41c528ef81df563199c309774c09c3098cd001d542d",
+    "last_sent": "2026-10-04"
   }
 }
