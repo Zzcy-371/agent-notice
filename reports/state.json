@@ -1405,5 +1405,25 @@
     "score": 0,
     "fingerprint": "94768b6c7b3207c39e70ef4f718ac31aec883f9fafaf4e6e19eeac6de48c0fca",
     "last_sent": "2026-10-05"
+  },
+  "https://github.com/nuglifeleoji/Sentry": {
+    "score": 0,
+    "fingerprint": "e2e473ca35cfb9937c3ad0a825273ef5e90f213d980af63d252e5a1887f4bb3f",
+    "last_sent": "2026-10-06"
+  },
+  "https://github.com/mars2021y-gif/autonomous-ai-agent-security-incidents-2026": {
+    "score": 0,
+    "fingerprint": "c423e2c78b48da3e81f2f6367cde4312f6c3b01ce73dd9963b4d7464b2de94ce",
+    "last_sent": "2026-10-06"
+  },
+  "https://docs.litellm.ai/blog/lens-failure-patterns": {
+    "score": 0,
+    "fingerprint": "4037e7b95070eaf49029c06e3352c5f4d688385455c0195c59527a5c529b5a62",
+    "last_sent": "2026-10-06"
+  },
+  "https://arxiv.org/abs/2610.03872": {
+    "score": 0,
+    "fingerprint": "8a10fb76e9e78f30ce2cef26eb704bc797377a89f23d87850512173c1931d2f7",
+    "last_sent": "2026-10-06"
   }
 }
