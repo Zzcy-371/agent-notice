@@ -112,9 +112,9 @@
     "last_sent": "2026-09-22"
   },
   "https://github.com/thedotmack/claude-mem": {
-    "score": 92788,
+    "score": 97899,
     "fingerprint": "ee59b10d39faa93a904e373df78c58f38940847020d66341fc31a38205586dc6",
-    "last_sent": "2026-09-01"
+    "last_sent": "2026-10-08"
   },
   "https://github.com/infiniflow/ragflow": {
     "score": 90410,
@@ -1445,5 +1445,20 @@
     "score": 0,
     "fingerprint": "f968eb4577e6a460e7c8dab659c42f82c258e0a6bdae68c3d212963af7ded001",
     "last_sent": "2026-10-07"
+  },
+  "https://arxiv.org/abs/2610.08793": {
+    "score": 0,
+    "fingerprint": "65f1f3b2c187e2c6ba8f381eb8e721337eb84f327daa85f1a0d96eeba9ec2e8f",
+    "last_sent": "2026-10-08"
+  },
+  "https://arxiv.org/abs/2610.08875": {
+    "score": 0,
+    "fingerprint": "c961c53945628a3179f72eec22a81fbfb71fd97abc0f4b64f722c21af2134c16",
+    "last_sent": "2026-10-08"
+  },
+  "https://arxiv.org/abs/2610.08900": {
+    "score": 0,
+    "fingerprint": "700b4a696e47f853389fea9ddf528c906f8382c4e6064c45cf4424fd43d2502c",
+    "last_sent": "2026-10-08"
   }
 }
