@@ -1460,5 +1460,25 @@
     "score": 0,
     "fingerprint": "700b4a696e47f853389fea9ddf528c906f8382c4e6064c45cf4424fd43d2502c",
     "last_sent": "2026-10-08"
+  },
+  "https://github.com/microsoft/vscode/issues/340651": {
+    "score": 0,
+    "fingerprint": "5206baec44bbcf66af3fe7a045d2a497b873b1ab352c8aca5df5e83a7b1bf707",
+    "last_sent": "2026-10-09"
+  },
+  "https://news.ycombinator.com/item?id=50016052": {
+    "score": 0,
+    "fingerprint": "eb222e23e9fff655349b25ead17cdc58a59a4ec0f3d7daaa8b5f146f3de72cbd",
+    "last_sent": "2026-10-09"
+  },
+  "https://arxiv.org/abs/2610.10549": {
+    "score": 0,
+    "fingerprint": "4bb5f313b852933321880b6129a6cba05438f943bce2412c371503cb6c7f2354",
+    "last_sent": "2026-10-09"
+  },
+  "https://arxiv.org/abs/2610.10590": {
+    "score": 0,
+    "fingerprint": "fb4befa6a7eaabc30fe30b567a4575d8a798959014187fd9617d8b390d6e28d8",
+    "last_sent": "2026-10-09"
   }
 }
