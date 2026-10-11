@@ -1500,5 +1500,25 @@
     "score": 0,
     "fingerprint": "2d47dd9cba3a2d8502c81348b0291a1f355f3a28983103b06ef2f7529285835c",
     "last_sent": "2026-10-10"
+  },
+  "https://github.com/vscarpenter/gsd-task-manager": {
+    "score": 0,
+    "fingerprint": "0fe745dd140bbfc790a4ce414d3ae43c4acaa219763bc9bdf3d1c24607d6f280",
+    "last_sent": "2026-10-11"
+  },
+  "https://www.bbc.com/news/articles/cqkg50j1yd5lo": {
+    "score": 0,
+    "fingerprint": "e91dd96255f0943d90e7b368f2322822fa474bdefba50fcbe6dbd9a515804299",
+    "last_sent": "2026-10-11"
+  },
+  "https://github.com/pkulak/barnaby-home": {
+    "score": 0,
+    "fingerprint": "6b7fad4be2a82b182a0b08877cd2353f839f40049c8b8680314da21f8b4d0ef2",
+    "last_sent": "2026-10-11"
+  },
+  "https://zenodo.org/records/23132717": {
+    "score": 0,
+    "fingerprint": "47aebc0b2ef9c59129c93b4bb1df931eb17295346a8a76f7c5323c88c26094f1",
+    "last_sent": "2026-10-11"
   }
 }
