@@ -1520,5 +1520,25 @@
     "score": 0,
     "fingerprint": "47aebc0b2ef9c59129c93b4bb1df931eb17295346a8a76f7c5323c88c26094f1",
     "last_sent": "2026-10-11"
+  },
+  "https://github.com/morluto/rea": {
+    "score": 117277,
+    "fingerprint": "8d26d00614d9367a044297a7b634f3d52efa612f1a079d600e7bf582e6603e1c",
+    "last_sent": "2026-10-12"
+  },
+  "https://github.com/Mininglamp-OSS": {
+    "score": 0,
+    "fingerprint": "9b63ba9e8ed9e09f97c3d512e8ca1da7afa7e9846879e02f708cf44e646a3db6",
+    "last_sent": "2026-10-12"
+  },
+  "https://arxiv.org/abs/2610.12593": {
+    "score": 0,
+    "fingerprint": "c25e1b66434458da487c9266c29849db0c1dd82eabf4ae45f8792db7099552c9",
+    "last_sent": "2026-10-12"
+  },
+  "https://arxiv.org/abs/2610.12596": {
+    "score": 0,
+    "fingerprint": "68a7f10501b2ad928b1345edca97e5efe50674cdde0dab1d9ee2bbf8cfbcd8b7",
+    "last_sent": "2026-10-12"
   }
 }
