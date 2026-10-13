@@ -1540,5 +1540,25 @@
     "score": 0,
     "fingerprint": "68a7f10501b2ad928b1345edca97e5efe50674cdde0dab1d9ee2bbf8cfbcd8b7",
     "last_sent": "2026-10-12"
+  },
+  "https://www.calm.rocks/blog/pipeline-vs-agent": {
+    "score": 0,
+    "fingerprint": "afaba68c708580dcc0347673de38f4462d60898d3b719c5e6999abd2c38ae49b",
+    "last_sent": "2026-10-13"
+  },
+  "https://hitest.ai/blog/demo-hacker-news": {
+    "score": 0,
+    "fingerprint": "021dd142193bd15cfaebca762063b2a4c8973c6319b9d8bf9a5ac1cc8abd3b5e",
+    "last_sent": "2026-10-13"
+  },
+  "https://github.com/roshan-amble/ssrf-lab/blob/main/docs/findings/2026-09-13-ssrf-agent-bypass.md": {
+    "score": 0,
+    "fingerprint": "ec9cae7964d0717a2b7a7bec4f5bc7ca38a267d590f005e8c25390e8afdd50ad",
+    "last_sent": "2026-10-13"
+  },
+  "https://github.com/polymodality/agentic-polymodality/tree/main/ai-guidance": {
+    "score": 0,
+    "fingerprint": "436bcc4a960c087fd3a73fbf8c355366a6f80fc2133f4faa08ff6fbd3da3785d",
+    "last_sent": "2026-10-13"
   }
 }
