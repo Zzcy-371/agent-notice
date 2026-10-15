@@ -62,9 +62,9 @@
     "last_sent": "2026-09-15"
   },
   "https://github.com/farion1231/cc-switch": {
-    "score": 132900,
+    "score": 144413,
     "fingerprint": "ed5f4310ddda953d9be2e9b46ebf91800151a8b7c32cdaa88739d18ccbb4317c",
-    "last_sent": "2026-09-15"
+    "last_sent": "2026-10-15"
   },
   "https://github.com/google-gemini/gemini-cli": {
     "score": 106025,
@@ -77,9 +77,9 @@
     "last_sent": "2026-09-22"
   },
   "https://github.com/DietrichGebert/ponytail": {
-    "score": 138627,
+    "score": 163755,
     "fingerprint": "7d079e3e15e1672385ae4cbadc5e7de19821e3037216533c19198f7aa31cbe70",
-    "last_sent": "2026-09-15"
+    "last_sent": "2026-10-15"
   },
   "https://github.com/nexu-io/open-design": {
     "score": 96610,
@@ -1092,9 +1092,9 @@
     "last_sent": "2026-09-14"
   },
   "https://github.com/JuliusBrussee/caveman": {
-    "score": 105622,
+    "score": 111953,
     "fingerprint": "32481fa7e3452ca978d9f940d591bb3ba2159b2598a28be029bafbdc0b3030b2",
-    "last_sent": "2026-09-15"
+    "last_sent": "2026-10-15"
   },
   "https://arxiv.org/abs/2609.17632": {
     "score": 0,
@@ -1580,5 +1580,10 @@
     "score": 0,
     "fingerprint": "ae72fb3aa5f858434c8a7a6029cb9a52e66f8fc3246c4148b79adcccd5f0fcec",
     "last_sent": "2026-10-14"
+  },
+  "https://claude.com/resources/articles/agent-observability-on-the-claude-platform": {
+    "score": 0,
+    "fingerprint": "de124c113aa63046b36b09a84d225835d003ca4f31d32bd32d35e238d63ce2d2",
+    "last_sent": "2026-10-15"
   }
 }
