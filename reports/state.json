@@ -87,14 +87,14 @@
     "last_sent": "2026-09-17"
   },
   "https://github.com/mattpocock/skills": {
-    "score": 262988,
+    "score": 293092,
     "fingerprint": "292a013ebbf9decdaee1516b30e2ba1c4c748cdb56c5910247e292299fed2afa",
-    "last_sent": "2026-09-16"
+    "last_sent": "2026-10-16"
   },
   "https://github.com/VoltAgent/awesome-design-md": {
-    "score": 116045,
+    "score": 121641,
     "fingerprint": "59f3ef81e49a6694e1f621a360acfeaec9078f649528046cf9b771bc7873ddae",
-    "last_sent": "2026-09-16"
+    "last_sent": "2026-10-16"
   },
   "https://github.com/openai/codex": {
     "score": 124503,
@@ -1585,5 +1585,15 @@
     "score": 0,
     "fingerprint": "de124c113aa63046b36b09a84d225835d003ca4f31d32bd32d35e238d63ce2d2",
     "last_sent": "2026-10-15"
+  },
+  "https://arxiv.org/abs/2610.20665": {
+    "score": 0,
+    "fingerprint": "14cb19a7bd2e66e40e8cf2eb7bc6d4f297ac2895ec82b47bcbc80eef7aa2353e",
+    "last_sent": "2026-10-16"
+  },
+  "https://arxiv.org/abs/2610.20675": {
+    "score": 0,
+    "fingerprint": "40b9a8617582e112ebec9d40ebc6e5b552d39709703fbe4e37f8b0a0c1e2f65d",
+    "last_sent": "2026-10-16"
   }
 }
