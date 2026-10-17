@@ -82,9 +82,9 @@
     "last_sent": "2026-10-15"
   },
   "https://github.com/nexu-io/open-design": {
-    "score": 96610,
-    "fingerprint": "dce46892146c71c2b49758ed06cd9235172f67d2081eaf8ebde41bf6de97e622",
-    "last_sent": "2026-09-17"
+    "score": 101682,
+    "fingerprint": "63c6d85af46791f749ae1bb7e3812df6cdae9e69deda91bb8dc7439f2e9c1fd6",
+    "last_sent": "2026-10-17"
   },
   "https://github.com/mattpocock/skills": {
     "score": 293092,
@@ -97,9 +97,9 @@
     "last_sent": "2026-10-16"
   },
   "https://github.com/openai/codex": {
-    "score": 124503,
+    "score": 129556,
     "fingerprint": "d353608afc4576c7e24680f41285cb9eaa769895c019bef5c4fd5ec24a5bd7f9",
-    "last_sent": "2026-09-16"
+    "last_sent": "2026-10-17"
   },
   "https://github.com/TauricResearch/TradingAgents": {
     "score": 106776,
@@ -1067,9 +1067,9 @@
     "last_sent": "2026-09-12"
   },
   "https://github.com/Panniantong/Agent-Reach": {
-    "score": 79865,
+    "score": 98305,
     "fingerprint": "1267a4da72669e2a0861aab5dc0c53ee818b09aba4743b6b56e15e47a63ec3af",
-    "last_sent": "2026-09-13"
+    "last_sent": "2026-10-17"
   },
   "https://arxiv.org/abs/2609.11977": {
     "score": 0,
@@ -1595,5 +1595,10 @@
     "score": 0,
     "fingerprint": "40b9a8617582e112ebec9d40ebc6e5b552d39709703fbe4e37f8b0a0c1e2f65d",
     "last_sent": "2026-10-16"
+  },
+  "https://arxiv.org/abs/2610.20681": {
+    "score": 0,
+    "fingerprint": "7c62438abc649dd04e3882d8d151ee03ae3b909443b414e2661679d5df8cbf64",
+    "last_sent": "2026-10-17"
   }
 }
