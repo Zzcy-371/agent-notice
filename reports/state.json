@@ -127,9 +127,9 @@
     "last_sent": "2026-07-19"
   },
   "https://github.com/addyosmani/agent-skills": {
-    "score": 95969,
+    "score": 107902,
     "fingerprint": "4affa527cf478fd954bc9135ad972b89c3b334e60b40edabfdfef6538833df3a",
-    "last_sent": "2026-09-18"
+    "last_sent": "2026-10-18"
   },
   "https://github.com/dair-ai/Prompt-Engineering-Guide": {
     "score": 76752,
@@ -1600,5 +1600,20 @@
     "score": 0,
     "fingerprint": "7c62438abc649dd04e3882d8d151ee03ae3b909443b414e2661679d5df8cbf64",
     "last_sent": "2026-10-17"
+  },
+  "https://sphinx-six-theta.vercel.app/": {
+    "score": 0,
+    "fingerprint": "73ac1f520432e2df8a2959de7c1068e432223062ccec0f691a3c3ec78ce09ec0",
+    "last_sent": "2026-10-18"
+  },
+  "https://iampneuma.com/the-function-returned-true": {
+    "score": 0,
+    "fingerprint": "5f987a7e56db527b36cafddf7aeda83481ecdc1574babc0b73b90885a0aabccf",
+    "last_sent": "2026-10-18"
+  },
+  "https://github.com/ibragim-bad/evals-from-sessions": {
+    "score": 0,
+    "fingerprint": "b8e65a5ba842c9cdbd44526e7457ee90196a3b522b0ae5fbe5da0a78eb71fda6",
+    "last_sent": "2026-10-18"
   }
 }
