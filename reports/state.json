@@ -102,9 +102,9 @@
     "last_sent": "2026-10-17"
   },
   "https://github.com/TauricResearch/TradingAgents": {
-    "score": 106776,
+    "score": 111956,
     "fingerprint": "e57b95470e420d84ce99cc370741809e4f9d6110b47eac620fe6f97cc2447637",
-    "last_sent": "2026-09-16"
+    "last_sent": "2026-10-19"
   },
   "https://github.com/karpathy/autoresearch": {
     "score": 96506,
@@ -1615,5 +1615,20 @@
     "score": 0,
     "fingerprint": "b8e65a5ba842c9cdbd44526e7457ee90196a3b522b0ae5fbe5da0a78eb71fda6",
     "last_sent": "2026-10-18"
+  },
+  "https://12gramsofcarbon.com/p/agentics-agent-identity-is-a-really": {
+    "score": 0,
+    "fingerprint": "dec874e88faae15cb0598b3957184ebebb1e131cb24da3e07fdba231449541f1",
+    "last_sent": "2026-10-19"
+  },
+  "https://www.memstrata.dev/": {
+    "score": 0,
+    "fingerprint": "3633f133302067c92b9fe7861fc5abd6216032051fc10c1a10640ce64d198087",
+    "last_sent": "2026-10-19"
+  },
+  "https://github.com/google-research/harness2": {
+    "score": 0,
+    "fingerprint": "0bd9d65de2e66911d120b254f4cf10e7c534d1e048d5daa0198ca59f60ea39bc",
+    "last_sent": "2026-10-19"
   }
 }
