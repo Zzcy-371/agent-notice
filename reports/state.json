@@ -162,9 +162,9 @@
     "last_sent": "2026-07-21"
   },
   "https://github.com/earendil-works/pi": {
-    "score": 107406,
+    "score": 116476,
     "fingerprint": "8d197026c00a565ab7cc03d9494597b3e6014ed96e28e7de69a83b14c0533406",
-    "last_sent": "2026-09-20"
+    "last_sent": "2026-10-20"
   },
   "https://smoke-break.pineapplefreefall.com": {
     "score": 0,
@@ -1630,5 +1630,20 @@
     "score": 0,
     "fingerprint": "0bd9d65de2e66911d120b254f4cf10e7c534d1e048d5daa0198ca59f60ea39bc",
     "last_sent": "2026-10-19"
+  },
+  "https://arxiv.org/abs/2610.23921": {
+    "score": 0,
+    "fingerprint": "fc154ca04bdfd9d8f7f9af7522d729d08e4e2dbe3c4f0829ee715b9366a57301",
+    "last_sent": "2026-10-20"
+  },
+  "https://arxiv.org/abs/2610.24024": {
+    "score": 0,
+    "fingerprint": "4103b2cf71803af29dca07232b83377ce91ab699a2b86cabf42e39337317ff00",
+    "last_sent": "2026-10-20"
+  },
+  "https://arxiv.org/abs/2610.24061": {
+    "score": 0,
+    "fingerprint": "5637af2f88795184397fb4b375345ab5bc0749ebffd08125d07289dbe9723b31",
+    "last_sent": "2026-10-20"
   }
 }
