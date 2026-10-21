@@ -1645,5 +1645,25 @@
     "score": 0,
     "fingerprint": "5637af2f88795184397fb4b375345ab5bc0749ebffd08125d07289dbe9723b31",
     "last_sent": "2026-10-20"
+  },
+  "https://github.com/huggingface/agent-manager": {
+    "score": 0,
+    "fingerprint": "6cd9c1823cc498c43ba427bb667c1b4ff6091d898a9b786251b0d291e99183cd",
+    "last_sent": "2026-10-21"
+  },
+  "https://arxiv.org/abs/2610.26887": {
+    "score": 0,
+    "fingerprint": "c02aee1947fe88d6e2488bb5e91b88752d8d6d669fa786669784b6571f8af939",
+    "last_sent": "2026-10-21"
+  },
+  "https://arxiv.org/abs/2610.26913": {
+    "score": 0,
+    "fingerprint": "0ffe18e767749f0ef11f9fc814e2ff3c90572c0532d53ba09b403b3e8023745d",
+    "last_sent": "2026-10-21"
+  },
+  "https://arxiv.org/abs/2610.26924": {
+    "score": 0,
+    "fingerprint": "a0b33f0be672b6ec18a4aea1ed102d80e41e785d425613e1d2758bdce2a289e1",
+    "last_sent": "2026-10-21"
   }
 }
