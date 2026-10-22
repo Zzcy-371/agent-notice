@@ -52,9 +52,9 @@
     "last_sent": "2026-09-24"
   },
   "https://github.com/msitarzewski/agency-agents": {
-    "score": 154023,
+    "score": 162998,
     "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd",
-    "last_sent": "2026-09-22"
+    "last_sent": "2026-10-22"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
     "score": 138228,
@@ -72,9 +72,9 @@
     "last_sent": "2026-07-17"
   },
   "https://github.com/browser-use/browser-use": {
-    "score": 115813,
-    "fingerprint": "80e5a9114d04d2b61ea74589bfb4d646fc1018cc22534365141fe93ce1570f2a",
-    "last_sent": "2026-09-22"
+    "score": 118798,
+    "fingerprint": "5d76ee32bd5033068ce1a32863ab218619b49148100efbe965c19eb7d263e7c1",
+    "last_sent": "2026-10-22"
   },
   "https://github.com/DietrichGebert/ponytail": {
     "score": 163755,
@@ -1665,5 +1665,15 @@
     "score": 0,
     "fingerprint": "a0b33f0be672b6ec18a4aea1ed102d80e41e785d425613e1d2758bdce2a289e1",
     "last_sent": "2026-10-21"
+  },
+  "https://github.com/stablyai/orca": {
+    "score": 101630,
+    "fingerprint": "d896289db94602774a160099d8cb0c5a62971f3b65215a029844af6c7bd319c5",
+    "last_sent": "2026-10-22"
+  },
+  "https://arxiv.org/abs/2610.28698": {
+    "score": 0,
+    "fingerprint": "909b8c6d49d98b7b77f802c48ae66fab987efdb44fd3bb17cc413e95ff1654a5",
+    "last_sent": "2026-10-22"
   }
 }
