@@ -1,8 +1,8 @@
 {
   "https://github.com/obra/superpowers": {
-    "score": 290274,
+    "score": 303825,
     "fingerprint": "0ac69362f2d6027e91827ff65a0c0317d0345d85c559aa2721412e0d62e992b3",
-    "last_sent": "2026-09-23"
+    "last_sent": "2026-10-23"
   },
   "https://github.com/affaan-m/ECC": {
     "score": 268522,
@@ -1675,5 +1675,20 @@
     "score": 0,
     "fingerprint": "909b8c6d49d98b7b77f802c48ae66fab987efdb44fd3bb17cc413e95ff1654a5",
     "last_sent": "2026-10-22"
+  },
+  "https://arxiv.org/abs/2610.30151": {
+    "score": 0,
+    "fingerprint": "37303961452d3871c2c0eb3530bf7814f7c76310a6563eaf5c8dd8548880ab6f",
+    "last_sent": "2026-10-23"
+  },
+  "https://arxiv.org/abs/2610.30157": {
+    "score": 0,
+    "fingerprint": "51eab01f1dbf52d7251b5cf6dc37abe349fd5904a812da1ade0dff1ef1c30d3a",
+    "last_sent": "2026-10-23"
+  },
+  "https://arxiv.org/abs/2610.30205": {
+    "score": 0,
+    "fingerprint": "66205ab33967cc603b1eb61948d49c7274d3be0e041280db696a738d5495c773",
+    "last_sent": "2026-10-23"
   }
 }
