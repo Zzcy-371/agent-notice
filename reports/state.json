@@ -47,9 +47,9 @@
     "last_sent": "2026-09-20"
   },
   "https://github.com/anthropics/claude-code": {
-    "score": 147832,
+    "score": 153195,
     "fingerprint": "49065a8d6b6ab94bb289c9c4d62d7898c81c5ba1390302ef4a4347b85914988b",
-    "last_sent": "2026-09-24"
+    "last_sent": "2026-10-24"
   },
   "https://github.com/msitarzewski/agency-agents": {
     "score": 162998,
@@ -1690,5 +1690,20 @@
     "score": 0,
     "fingerprint": "66205ab33967cc603b1eb61948d49c7274d3be0e041280db696a738d5495c773",
     "last_sent": "2026-10-23"
+  },
+  "https://github.com/opensec-git/Pi-Bolt": {
+    "score": 0,
+    "fingerprint": "c6b667b718ee494c3be753e5d586b6c64555cc6d091522c67a4ec6d536537f8d",
+    "last_sent": "2026-10-24"
+  },
+  "https://github.com/wheresryan22/anatomy": {
+    "score": 0,
+    "fingerprint": "7d6886f644427be088c5539bf94bd3fe2b7862fee73ba3ac7aca2eb049bb5b85",
+    "last_sent": "2026-10-24"
+  },
+  "https://github.com/gtindo/task-view": {
+    "score": 0,
+    "fingerprint": "cffa311ceb247c5874b2c725ca549407a5488c878a601a2c73a8b55827351747",
+    "last_sent": "2026-10-24"
   }
 }
