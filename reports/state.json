@@ -10,9 +10,9 @@
     "last_sent": "2026-09-28"
   },
   "https://github.com/NousResearch/hermes-agent": {
-    "score": 248770,
+    "score": 256858,
     "fingerprint": "67c528cf73c310a2be5ba4a2429a6e470cc0425e46b4fe0ce31515ddd259f4e8",
-    "last_sent": "2026-09-25"
+    "last_sent": "2026-10-25"
   },
   "https://github.com/ultraworkers/claw-code": {
     "score": 194752,
@@ -1705,5 +1705,20 @@
     "score": 0,
     "fingerprint": "cffa311ceb247c5874b2c725ca549407a5488c878a601a2c73a8b55827351747",
     "last_sent": "2026-10-24"
+  },
+  "https://npmjs.com/protoshot": {
+    "score": 0,
+    "fingerprint": "87e602fb6b52355d5b466d69c8a21da9c2dda648821efaad356f39bc96afb0e9",
+    "last_sent": "2026-10-25"
+  },
+  "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring": {
+    "score": 0,
+    "fingerprint": "e56a72a289f7c0caa481e0bad87cbce36e3d6f201bc2a80d4251b17b1abe6215",
+    "last_sent": "2026-10-25"
+  },
+  "https://github.com/DainoJung/omni-verify": {
+    "score": 0,
+    "fingerprint": "8d900778af04652a5f89ef76adb86dc759b3a09500f56d69e5c9cf6901104dcf",
+    "last_sent": "2026-10-25"
   }
 }
