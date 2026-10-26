@@ -142,9 +142,9 @@
     "last_sent": "2026-07-20"
   },
   "https://github.com/paperclipai/paperclip": {
-    "score": 85289,
+    "score": 107363,
     "fingerprint": "d44e71edb47d4cbde83923a19ed93dfe6d9f641a9d2b5ac8c1d042733187bcea",
-    "last_sent": "2026-09-26"
+    "last_sent": "2026-10-26"
   },
   "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials": {
     "score": 0,
@@ -1720,5 +1720,20 @@
     "score": 0,
     "fingerprint": "8d900778af04652a5f89ef76adb86dc759b3a09500f56d69e5c9cf6901104dcf",
     "last_sent": "2026-10-25"
+  },
+  "https://proc-cli.com/": {
+    "score": 0,
+    "fingerprint": "7435017edeedc7971b14a98ebd9b0bb6789c692d45250dc68c732ace445c2c28",
+    "last_sent": "2026-10-26"
+  },
+  "https://arxiv.org/abs/2610.31789": {
+    "score": 0,
+    "fingerprint": "5f7b74fc99e3f1de3285046616f801a55df1ec260c5acb77510029082171fda9",
+    "last_sent": "2026-10-26"
+  },
+  "https://arxiv.org/abs/2610.31810": {
+    "score": 0,
+    "fingerprint": "4330f6af2425fd08656c18f33965c8659a1109ca19718bef63389eb7f4e069cb",
+    "last_sent": "2026-10-26"
   }
 }
