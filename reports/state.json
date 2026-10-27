@@ -33,9 +33,9 @@
     "fingerprint": "5dcaca0bd6239b0127be99e2780720a9c273476ef5704512393c11f9c50b51be"
   },
   "https://github.com/langgenius/dify": {
-    "score": 154554,
+    "score": 159650,
     "fingerprint": "d4ea4acf9a18f8b64032d85736a987d22194ca1519f9d28b19bfa0dd90b7020d",
-    "last_sent": "2026-09-06"
+    "last_sent": "2026-10-27"
   },
   "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools": {
     "score": 141867,
@@ -1735,5 +1735,20 @@
     "score": 0,
     "fingerprint": "4330f6af2425fd08656c18f33965c8659a1109ca19718bef63389eb7f4e069cb",
     "last_sent": "2026-10-26"
+  },
+  "https://arxiv.org/abs/2610.31846": {
+    "score": 0,
+    "fingerprint": "3024c834c029813e5e360b99fe1be1fad32cfb4a170224685d763849e353f949",
+    "last_sent": "2026-10-27"
+  },
+  "https://arxiv.org/abs/2610.31882": {
+    "score": 0,
+    "fingerprint": "5851c76e8837e377f70e7a9f1b897b3da1b6845d7efc1e18b240596ecc8886e3",
+    "last_sent": "2026-10-27"
+  },
+  "https://arxiv.org/abs/2610.31916": {
+    "score": 0,
+    "fingerprint": "dcbe4a6d7b64380d4229b31cc2af51178c30a111692eadfb7aa8b4ea4121a520",
+    "last_sent": "2026-10-27"
   }
 }
