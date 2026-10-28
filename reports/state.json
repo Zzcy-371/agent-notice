@@ -5,9 +5,9 @@
     "last_sent": "2026-10-23"
   },
   "https://github.com/affaan-m/ECC": {
-    "score": 268522,
+    "score": 291082,
     "fingerprint": "c99d4b8fb94066db76224fc1bc8dfb91c2be0930dd828f63cd147e90a7e36bf7",
-    "last_sent": "2026-09-28"
+    "last_sent": "2026-10-28"
   },
   "https://github.com/NousResearch/hermes-agent": {
     "score": 256858,
@@ -57,9 +57,9 @@
     "last_sent": "2026-10-22"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
-    "score": 138228,
+    "score": 143265,
     "fingerprint": "d65aaf7354f913df0b2fc03f2bdb57270f1fff908558efae93f101acc95a14ba",
-    "last_sent": "2026-09-15"
+    "last_sent": "2026-10-28"
   },
   "https://github.com/farion1231/cc-switch": {
     "score": 144413,
@@ -1750,5 +1750,15 @@
     "score": 0,
     "fingerprint": "dcbe4a6d7b64380d4229b31cc2af51178c30a111692eadfb7aa8b4ea4121a520",
     "last_sent": "2026-10-27"
+  },
+  "https://arxiv.org/abs/2610.36077": {
+    "score": 0,
+    "fingerprint": "c0ad7b2aa7e8da601965b9559fbd2642ca8b8695fd4832c561f00e4992f667a4",
+    "last_sent": "2026-10-28"
+  },
+  "https://arxiv.org/abs/2610.36100": {
+    "score": 0,
+    "fingerprint": "aeadac5beedd9465b658bc0b0270849a447daf347661293c96208e0eeb79e698",
+    "last_sent": "2026-10-28"
   }
 }
