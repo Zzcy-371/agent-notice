@@ -1292,9 +1292,9 @@
     "last_sent": "2026-09-29"
   },
   "https://github.com/firecrawl/firecrawl": {
-    "score": 186761,
-    "fingerprint": "f9bf74db13de88adac6f94eecc5d1c0be435a99841a0e12792ba21fc407f13a4",
-    "last_sent": "2026-09-30"
+    "score": 196826,
+    "fingerprint": "86c7f2220a6c66d5d915a21e9588b597a8a2ad4a9a0c2c517a1ee13cbd41580b",
+    "last_sent": "2026-10-30"
   },
   "https://instapath.ai/": {
     "score": 0,
@@ -1775,5 +1775,20 @@
     "score": 0,
     "fingerprint": "a25a4fd40f906652fef3a50718b6ee6620e24bce07b1ab7156e268b52fa5dbc5",
     "last_sent": "2026-10-29"
+  },
+  "https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud": {
+    "score": 0,
+    "fingerprint": "18e6a739463bbcb367e6a34dd0a8134fc1f917315726c90d65a7149e9e52cc77",
+    "last_sent": "2026-10-30"
+  },
+  "https://theainewsreport.com/2026-10-29-claude-code-agent-summary-cost-explained.html": {
+    "score": 0,
+    "fingerprint": "ef98db6c442b7368c82cd8ca1d1cafba2e1ab325947c04717470be19b102a6d5",
+    "last_sent": "2026-10-30"
+  },
+  "https://github.com/orime-org/breatic": {
+    "score": 0,
+    "fingerprint": "16bf296993fe55edf9e419210d4a16cd7d03f95122caf1d503ef9c463235625f",
+    "last_sent": "2026-10-30"
   }
 }
