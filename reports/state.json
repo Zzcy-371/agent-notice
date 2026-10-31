@@ -1790,5 +1790,25 @@
     "score": 0,
     "fingerprint": "16bf296993fe55edf9e419210d4a16cd7d03f95122caf1d503ef9c463235625f",
     "last_sent": "2026-10-30"
+  },
+  "https://github.com/muvon/octomind": {
+    "score": 0,
+    "fingerprint": "95af5c922bb60a268a32ddd6d75db30493a28cb9b130a229f2ab7d1e938dee74",
+    "last_sent": "2026-10-31"
+  },
+  "https://arxiv.org/abs/2610.37739": {
+    "score": 0,
+    "fingerprint": "2abce9b167dd8e5eea477c3c95ed6a304fd358ff674e2a4acebea2ad8a73ad39",
+    "last_sent": "2026-10-31"
+  },
+  "https://arxiv.org/abs/2610.37786": {
+    "score": 0,
+    "fingerprint": "c3f2823cfce459a8cf56fcf9e78c371db6504b9fe547c908526950b169e5ccd9",
+    "last_sent": "2026-10-31"
+  },
+  "https://arxiv.org/abs/2610.37809": {
+    "score": 0,
+    "fingerprint": "2dde656993b6811216f89b1d527c58ae0b59f951b0d37b77430b8b35733ad01d",
+    "last_sent": "2026-10-31"
   }
 }
