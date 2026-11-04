@@ -24,9 +24,9 @@
     "last_sent": "2026-10-29"
   },
   "https://github.com/anthropics/skills": {
-    "score": 179679,
+    "score": 187186,
     "fingerprint": "a314cbfb2e30e756de68623f0c29e97af5001d3bad01f181c09954fe0c1f5e90",
-    "last_sent": "2026-10-05"
+    "last_sent": "2026-11-04"
   },
   "https://github.com/langflow-ai/langflow": {
     "score": 151923,
@@ -1870,5 +1870,20 @@
     "score": 0,
     "fingerprint": "17fe222d08bc15d11f0371bd75416617ca81b6c5ba44e6c5912029826358b393",
     "last_sent": "2026-11-03"
+  },
+  "https://agentfirststack.com/": {
+    "score": 0,
+    "fingerprint": "9ff10093214bb70b4069f3f2c55ce818207734d288ed62ade4bd1ba2b50089f3",
+    "last_sent": "2026-11-04"
+  },
+  "https://arxiv.org/abs/2611.03662": {
+    "score": 0,
+    "fingerprint": "ae71b20b7f9309badddcc3511dfe9d27185f5d9312dfc4a87cb5dba0f37b4c1e",
+    "last_sent": "2026-11-04"
+  },
+  "https://arxiv.org/abs/2611.03684": {
+    "score": 0,
+    "fingerprint": "544c6fd80bf94d0790bc260cfdbf693c6b6bd2def90552deb5b5cf97e24af155",
+    "last_sent": "2026-11-04"
   }
 }
