@@ -1905,5 +1905,25 @@
     "score": 0,
     "fingerprint": "fea1cde2bd6d93227675aa16bc6742925b14775fc80339cf4d9797940dd43ac7",
     "last_sent": "2026-11-05"
+  },
+  "https://arxiv.org/abs/2611.06962": {
+    "score": 0,
+    "fingerprint": "7d9cd06aec76b0fb92c6a850733b9916c96878c338f78c842b5f7770f988c008",
+    "last_sent": "2026-11-06"
+  },
+  "https://arxiv.org/abs/2611.06984": {
+    "score": 0,
+    "fingerprint": "7a8f1c01a70d90c92f7fa71d89443349eadc1721ab820876441da6f9333731aa",
+    "last_sent": "2026-11-06"
+  },
+  "https://arxiv.org/abs/2611.06989": {
+    "score": 0,
+    "fingerprint": "579f22883e36c2633b917647e61dfbc7876f808cb40cc06f02225724bf05b3f4",
+    "last_sent": "2026-11-06"
+  },
+  "https://arxiv.org/abs/2611.06995": {
+    "score": 0,
+    "fingerprint": "3ea1082d25ab60b838f7fdb28997e83990758796ce03acbbe647c0053fb0f881",
+    "last_sent": "2026-11-06"
   }
 }
