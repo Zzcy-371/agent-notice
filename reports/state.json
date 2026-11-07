@@ -112,9 +112,9 @@
     "last_sent": "2026-09-22"
   },
   "https://github.com/thedotmack/claude-mem": {
-    "score": 97899,
+    "score": 114112,
     "fingerprint": "ee59b10d39faa93a904e373df78c58f38940847020d66341fc31a38205586dc6",
-    "last_sent": "2026-10-08"
+    "last_sent": "2026-11-07"
   },
   "https://github.com/infiniflow/ragflow": {
     "score": 90410,
@@ -1925,5 +1925,20 @@
     "score": 0,
     "fingerprint": "3ea1082d25ab60b838f7fdb28997e83990758796ce03acbbe647c0053fb0f881",
     "last_sent": "2026-11-06"
+  },
+  "https://type.com/": {
+    "score": 0,
+    "fingerprint": "2864cfad4e99cbfdea9080a54a826fcfefb902f8a6d1d6131b242194a4cead77",
+    "last_sent": "2026-11-07"
+  },
+  "https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app": {
+    "score": 0,
+    "fingerprint": "92afd049b577eb50a5e68fbe4c965468f09442f44dad32713aed5d7c857a5e90",
+    "last_sent": "2026-11-07"
+  },
+  "https://news.ycombinator.com/item?id=50400475": {
+    "score": 0,
+    "fingerprint": "c5f0972a5a55f0623b864e0ba14dad407a60cef110bfe499a90a1a92a7363f67",
+    "last_sent": "2026-11-07"
   }
 }
