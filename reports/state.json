@@ -1940,5 +1940,25 @@
     "score": 0,
     "fingerprint": "c5f0972a5a55f0623b864e0ba14dad407a60cef110bfe499a90a1a92a7363f67",
     "last_sent": "2026-11-07"
+  },
+  "https://github.com/volcengine/OpenViking": {
+    "score": 0,
+    "fingerprint": "212a2f06240c1ae57680f1cb610b17d5137339f6714fb59b24c92084dc063522",
+    "last_sent": "2026-11-08"
+  },
+  "https://github.com/google/elephant-goldfish-model": {
+    "score": 0,
+    "fingerprint": "5143de5facfa5e89f1fc72bf1c9e3f0a2c485382b2719da131cf729e2a67370c",
+    "last_sent": "2026-11-08"
+  },
+  "https://openuncensored.com/blog/uncensored-models-in-agent-loops": {
+    "score": 0,
+    "fingerprint": "5dc9a56995a97297dab31656678a27136ae73fee6eb151318c48c2018a7125fe",
+    "last_sent": "2026-11-08"
+  },
+  "https://rogermas05.github.io/agent-recap": {
+    "score": 0,
+    "fingerprint": "11afaf163cd7c1e75668e7126fda6e2c24700ce7854d83abff4319ba219315cd",
+    "last_sent": "2026-11-08"
   }
 }
