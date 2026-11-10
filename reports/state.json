@@ -1980,5 +1980,25 @@
     "score": 0,
     "fingerprint": "1b55c64c3ac1c9457ac3073ef416062702b1c352786cac7f33bfcab5e8c5f613",
     "last_sent": "2026-11-09"
+  },
+  "https://willocompanion.com/": {
+    "score": 0,
+    "fingerprint": "a555a069a4db1ca618634f6aebb2c46b421d847f1e4af900c9af11426ec99cb6",
+    "last_sent": "2026-11-10"
+  },
+  "https://arxiv.org/abs/2611.08756": {
+    "score": 0,
+    "fingerprint": "25944b6716e9a0d28c1249600693783f7bf825b90380300ced0fcffb99314efe",
+    "last_sent": "2026-11-10"
+  },
+  "https://arxiv.org/abs/2611.08781": {
+    "score": 0,
+    "fingerprint": "e045299c4949ac7b44e1d121900d6209f172408b9602e0d22582b26a25e916de",
+    "last_sent": "2026-11-10"
+  },
+  "https://arxiv.org/abs/2611.08811": {
+    "score": 0,
+    "fingerprint": "cb32aa28681822a467696da123f7e3c0941ac5552201a57539ac08317f3bb30f",
+    "last_sent": "2026-11-10"
   }
 }
