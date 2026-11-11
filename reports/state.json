@@ -1522,9 +1522,9 @@
     "last_sent": "2026-10-11"
   },
   "https://github.com/morluto/rea": {
-    "score": 117277,
+    "score": 450743,
     "fingerprint": "8d26d00614d9367a044297a7b634f3d52efa612f1a079d600e7bf582e6603e1c",
-    "last_sent": "2026-10-12"
+    "last_sent": "2026-11-11"
   },
   "https://github.com/Mininglamp-OSS": {
     "score": 0,
@@ -2000,5 +2000,20 @@
     "score": 0,
     "fingerprint": "cb32aa28681822a467696da123f7e3c0941ac5552201a57539ac08317f3bb30f",
     "last_sent": "2026-11-10"
+  },
+  "https://arxiv.org/abs/2611.12933": {
+    "score": 0,
+    "fingerprint": "a6098a1e82cd8b6e69848159b4e571ac1e251e6f2c82a20c997fd71c6a25a9e7",
+    "last_sent": "2026-11-11"
+  },
+  "https://arxiv.org/abs/2611.12934": {
+    "score": 0,
+    "fingerprint": "fd73acfbae3b4b694fb825ef9003ba79a4cd412f9a423fa7cf89e0bc25ed597b",
+    "last_sent": "2026-11-11"
+  },
+  "https://arxiv.org/abs/2611.12941": {
+    "score": 0,
+    "fingerprint": "ca84f035be371a004b1805ac1b6e62d4259aeb6eb1f8d225fafc823d31cbf555",
+    "last_sent": "2026-11-11"
   }
 }
