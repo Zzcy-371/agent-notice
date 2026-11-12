@@ -2015,5 +2015,25 @@
     "score": 0,
     "fingerprint": "ca84f035be371a004b1805ac1b6e62d4259aeb6eb1f8d225fafc823d31cbf555",
     "last_sent": "2026-11-11"
+  },
+  "https://alignment.anthropic.com/2026/worse-together": {
+    "score": 0,
+    "fingerprint": "ceed0d3c898a5cf47ae340f2214532bab68536bb6dc8e4abf90d4aa47e739c0a",
+    "last_sent": "2026-11-12"
+  },
+  "https://github.com/aliraza2025/receipts": {
+    "score": 0,
+    "fingerprint": "55e147dbd6fabb9ef522590fd28b754bc4b09afe2c55856afbc20e82db939453",
+    "last_sent": "2026-11-12"
+  },
+  "https://developer.chrome.com/blog/modern-web-guidance-v1": {
+    "score": 0,
+    "fingerprint": "90048e7751ca90a88f5f8070be22cb95bf889029ea0373c5327975c5db3f42d4",
+    "last_sent": "2026-11-12"
+  },
+  "https://github.com/adeptads/agent-skills": {
+    "score": 0,
+    "fingerprint": "f3c458494b640415d7b59fa71aa0ad970df769c3a722d1cb7fc285ce8f915425",
+    "last_sent": "2026-11-12"
   }
 }
