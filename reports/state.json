@@ -2035,5 +2035,25 @@
     "score": 0,
     "fingerprint": "f3c458494b640415d7b59fa71aa0ad970df769c3a722d1cb7fc285ce8f915425",
     "last_sent": "2026-11-12"
+  },
+  "https://github.com/pbakaus/impeccable": {
+    "score": 109151,
+    "fingerprint": "ad5f80f2f37c85241220f1b651f9179bb22d7418fdb8396c217842720dce440c",
+    "last_sent": "2026-11-13"
+  },
+  "https://chatpanel.net/": {
+    "score": 0,
+    "fingerprint": "b90b29756a461bdf9d04b996962bc881deda61f69e23a23f40b3967aaa2b57dc",
+    "last_sent": "2026-11-13"
+  },
+  "https://vercel.com/docs/agent-resources/skills": {
+    "score": 0,
+    "fingerprint": "8df7a2eb11dd6392cca982b9b6cbb6bf96faeb124d5975b0c79a9955f72e1e70",
+    "last_sent": "2026-11-13"
+  },
+  "https://github.com/amosblomqvist/learnharness": {
+    "score": 0,
+    "fingerprint": "b9054c943e3cba1d42d536a34821c43f1dcbbd84910197f88ed1aef1c454206b",
+    "last_sent": "2026-11-13"
   }
 }
