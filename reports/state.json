@@ -77,9 +77,9 @@
     "last_sent": "2026-10-22"
   },
   "https://github.com/DietrichGebert/ponytail": {
-    "score": 163755,
+    "score": 190476,
     "fingerprint": "7d079e3e15e1672385ae4cbadc5e7de19821e3037216533c19198f7aa31cbe70",
-    "last_sent": "2026-10-15"
+    "last_sent": "2026-11-14"
   },
   "https://github.com/nexu-io/open-design": {
     "score": 101682,
@@ -1092,9 +1092,9 @@
     "last_sent": "2026-09-14"
   },
   "https://github.com/JuliusBrussee/caveman": {
-    "score": 111953,
+    "score": 119736,
     "fingerprint": "32481fa7e3452ca978d9f940d591bb3ba2159b2598a28be029bafbdc0b3030b2",
-    "last_sent": "2026-10-15"
+    "last_sent": "2026-11-14"
   },
   "https://arxiv.org/abs/2609.17632": {
     "score": 0,
@@ -2055,5 +2055,15 @@
     "score": 0,
     "fingerprint": "b9054c943e3cba1d42d536a34821c43f1dcbbd84910197f88ed1aef1c454206b",
     "last_sent": "2026-11-13"
+  },
+  "https://developers.googleblog.com/agent-distraction": {
+    "score": 0,
+    "fingerprint": "f97d2d04b7bc16fea8f0dd5fcdbb00e0c85d426616fb2463c2c36396457045ae",
+    "last_sent": "2026-11-14"
+  },
+  "https://github.com/globalmpc/backendskills": {
+    "score": 0,
+    "fingerprint": "5ee7a2c04ae1d93ef95b795c57d693793dc17b0cfcb07c80b3ea13e49732d738",
+    "last_sent": "2026-11-14"
   }
 }
