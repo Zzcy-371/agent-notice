@@ -127,9 +127,9 @@
     "last_sent": "2026-07-19"
   },
   "https://github.com/addyosmani/agent-skills": {
-    "score": 107902,
+    "score": 118444,
     "fingerprint": "4affa527cf478fd954bc9135ad972b89c3b334e60b40edabfdfef6538833df3a",
-    "last_sent": "2026-10-18"
+    "last_sent": "2026-11-17"
   },
   "https://github.com/dair-ai/Prompt-Engineering-Guide": {
     "score": 76752,
@@ -2085,5 +2085,20 @@
     "score": 0,
     "fingerprint": "a345ca206a726d06227b6d52b243f9f36ddef1cde9cc8f37b7501b1abca66fe4",
     "last_sent": "2026-11-16"
+  },
+  "https://sierra.ai/blog/releasing-poppy": {
+    "score": 0,
+    "fingerprint": "f23e2b32e70da94fcd71763cc5ca6de3bc3fb805cb8908a769b4353ad907c158",
+    "last_sent": "2026-11-17"
+  },
+  "https://arxiv.org/abs/2611.17515": {
+    "score": 0,
+    "fingerprint": "7df2554ab1d0203cd88ab121e0117b2d5464f17f1e818986b4aa1534426459a0",
+    "last_sent": "2026-11-17"
+  },
+  "https://arxiv.org/abs/2611.17539": {
+    "score": 0,
+    "fingerprint": "51b1df708a48103bd245a8d58f55716db97889e37ff28e03aefcbbff84236a74",
+    "last_sent": "2026-11-17"
   }
 }
