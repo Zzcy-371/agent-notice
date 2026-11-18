@@ -102,9 +102,9 @@
     "last_sent": "2026-11-16"
   },
   "https://github.com/TauricResearch/TradingAgents": {
-    "score": 111956,
+    "score": 123014,
     "fingerprint": "e57b95470e420d84ce99cc370741809e4f9d6110b47eac620fe6f97cc2447637",
-    "last_sent": "2026-10-19"
+    "last_sent": "2026-11-18"
   },
   "https://github.com/karpathy/autoresearch": {
     "score": 96506,
@@ -2100,5 +2100,20 @@
     "score": 0,
     "fingerprint": "51b1df708a48103bd245a8d58f55716db97889e37ff28e03aefcbbff84236a74",
     "last_sent": "2026-11-17"
+  },
+  "https://arxiv.org/abs/2607.09691": {
+    "score": 0,
+    "fingerprint": "bc76685ba423ab88fccf929c352743a4a857e2b285b19443e62a96e8261c14c3",
+    "last_sent": "2026-11-18"
+  },
+  "https://github.com/sybil-solutions/inference-optimisation-skil": {
+    "score": 0,
+    "fingerprint": "84ff4c8004ef1ad4399f8479c34b1c7f936d6c2c3de75640d1212633a8ab6875",
+    "last_sent": "2026-11-18"
+  },
+  "https://zenodo.org/records/23778866": {
+    "score": 0,
+    "fingerprint": "486eed338b48c59f96fd9e04a177f6887cc07363067242d405344acf510e4102",
+    "last_sent": "2026-11-18"
   }
 }
