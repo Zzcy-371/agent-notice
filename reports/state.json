@@ -52,9 +52,9 @@
     "last_sent": "2026-10-24"
   },
   "https://github.com/msitarzewski/agency-agents": {
-    "score": 162998,
+    "score": 169585,
     "fingerprint": "4e296fa7a5decd79dd694e9694bf95ec5b578785ac8e7e975bf535abc8df1ebd",
-    "last_sent": "2026-10-22"
+    "last_sent": "2026-11-21"
   },
   "https://github.com/Shubhamsaboo/awesome-llm-apps": {
     "score": 143265,
@@ -2150,5 +2150,20 @@
     "score": 0,
     "fingerprint": "e0af007235af37506f0a3ea4406322e475f228df2a87026f8cb5a36dedfed8c7",
     "last_sent": "2026-11-20"
+  },
+  "http://ricapar.net/ClawDOS": {
+    "score": 0,
+    "fingerprint": "91a6aae8037213d9152c0401e5a2a3c1e488596d820a8c55ba175eac51048200",
+    "last_sent": "2026-11-21"
+  },
+  "https://safedep.io/blog/malicious-npm-leadstack-crm-connect-hermes-agent-backdoor": {
+    "score": 0,
+    "fingerprint": "b4300346f6c8935bffc0846db70dc1abd505f77ef01f073220b3e396837d5f55",
+    "last_sent": "2026-11-21"
+  },
+  "https://simeoncampos.substack.com/p/on-the-kafkaian-agent-swarm-that": {
+    "score": 0,
+    "fingerprint": "467e7e1c6a15d2cd978642f2714eb1a9e4612d823904408128ce6d7f2fb97828",
+    "last_sent": "2026-11-21"
   }
 }
