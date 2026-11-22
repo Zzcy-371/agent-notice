@@ -1,8 +1,8 @@
 {
   "https://github.com/obra/superpowers": {
-    "score": 303825,
+    "score": 323880,
     "fingerprint": "0ac69362f2d6027e91827ff65a0c0317d0345d85c559aa2721412e0d62e992b3",
-    "last_sent": "2026-10-23"
+    "last_sent": "2026-11-22"
   },
   "https://github.com/affaan-m/ECC": {
     "score": 291082,
@@ -2165,5 +2165,20 @@
     "score": 0,
     "fingerprint": "467e7e1c6a15d2cd978642f2714eb1a9e4612d823904408128ce6d7f2fb97828",
     "last_sent": "2026-11-21"
+  },
+  "https://frontier.replit.com/throwing-headcount-at-the-problem": {
+    "score": 0,
+    "fingerprint": "dba0ae0e7b66add5e5741e9659a079961798e894026e58b97ad62d40264d2eb9",
+    "last_sent": "2026-11-22"
+  },
+  "https://github.com/chizy7/tether/blob/master/docs/REPLAY.md": {
+    "score": 0,
+    "fingerprint": "b1746550a1363e2678e521d0ca417536463160f651cd2ac7e35150b886bf2cb0",
+    "last_sent": "2026-11-22"
+  },
+  "https://keepplain.com/blame": {
+    "score": 0,
+    "fingerprint": "ada665cea59f5319b3c8417ad8841594efa3157af8580dbb102dae28576354ca",
+    "last_sent": "2026-11-22"
   }
 }
