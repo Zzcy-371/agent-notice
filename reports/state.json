@@ -82,9 +82,9 @@
     "last_sent": "2026-11-14"
   },
   "https://github.com/nexu-io/open-design": {
-    "score": 101682,
-    "fingerprint": "63c6d85af46791f749ae1bb7e3812df6cdae9e69deda91bb8dc7439f2e9c1fd6",
-    "last_sent": "2026-10-17"
+    "score": 109054,
+    "fingerprint": "4229cfde3496597bf8d576616ed56126fa9e42a4390f37263be393af5adc79f0",
+    "last_sent": "2026-11-23"
   },
   "https://github.com/mattpocock/skills": {
     "score": 324618,
@@ -2180,5 +2180,20 @@
     "score": 0,
     "fingerprint": "ada665cea59f5319b3c8417ad8841594efa3157af8580dbb102dae28576354ca",
     "last_sent": "2026-11-22"
+  },
+  "https://www.kradle.ai?1": {
+    "score": 0,
+    "fingerprint": "ed9d17a54b560280eccac67a2d0c5dd710cde066f7d0ba68b861685952a7b6f2",
+    "last_sent": "2026-11-23"
+  },
+  "https://chittios.com/": {
+    "score": 0,
+    "fingerprint": "4e3d427e37bcde83ce497b39dd6cf982f1ec3d658b4e12260b29313e4a1e8c7f",
+    "last_sent": "2026-11-23"
+  },
+  "https://arxiv.org/abs/2611.26663": {
+    "score": 0,
+    "fingerprint": "c15415b48de5383482d2de5e9ec882dce42c8472350c19cf32f87bdf56bd7475",
+    "last_sent": "2026-11-23"
   }
 }
