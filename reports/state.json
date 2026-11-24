@@ -10,9 +10,9 @@
     "last_sent": "2026-10-28"
   },
   "https://github.com/NousResearch/hermes-agent": {
-    "score": 256858,
+    "score": 265758,
     "fingerprint": "67c528cf73c310a2be5ba4a2429a6e470cc0425e46b4fe0ce31515ddd259f4e8",
-    "last_sent": "2026-10-25"
+    "last_sent": "2026-11-24"
   },
   "https://github.com/ultraworkers/claw-code": {
     "score": 194752,
@@ -2195,5 +2195,20 @@
     "score": 0,
     "fingerprint": "c15415b48de5383482d2de5e9ec882dce42c8472350c19cf32f87bdf56bd7475",
     "last_sent": "2026-11-23"
+  },
+  "https://github.com/AIME-TECH-UK-LIMITED/signafaide-sdk": {
+    "score": 0,
+    "fingerprint": "4f2fa1a5690a08df4543ac45f67fa966d66bd4a39646ad44e6f8d5405ce175a2",
+    "last_sent": "2026-11-24"
+  },
+  "https://harny.dev/": {
+    "score": 0,
+    "fingerprint": "086b880536216caae63c70691d0853d1097540dd06fdab1bf906cb5843e62ba7",
+    "last_sent": "2026-11-24"
+  },
+  "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure": {
+    "score": 0,
+    "fingerprint": "a6085a56b10b82e088ec22800df426bf3611b86e711d779884d256b41f06f8a9",
+    "last_sent": "2026-11-24"
   }
 }
