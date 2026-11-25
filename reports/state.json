@@ -29,8 +29,9 @@
     "last_sent": "2026-11-04"
   },
   "https://github.com/langflow-ai/langflow": {
-    "score": 151923,
-    "fingerprint": "5dcaca0bd6239b0127be99e2780720a9c273476ef5704512393c11f9c50b51be"
+    "score": 156926,
+    "fingerprint": "5dcaca0bd6239b0127be99e2780720a9c273476ef5704512393c11f9c50b51be",
+    "last_sent": "2026-11-25"
   },
   "https://github.com/langgenius/dify": {
     "score": 159650,
@@ -142,9 +143,9 @@
     "last_sent": "2026-07-20"
   },
   "https://github.com/paperclipai/paperclip": {
-    "score": 107363,
+    "score": 116862,
     "fingerprint": "d44e71edb47d4cbde83923a19ed93dfe6d9f641a9d2b5ac8c1d042733187bcea",
-    "last_sent": "2026-10-26"
+    "last_sent": "2026-11-25"
   },
   "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials": {
     "score": 0,
@@ -2210,5 +2211,15 @@
     "score": 0,
     "fingerprint": "a6085a56b10b82e088ec22800df426bf3611b86e711d779884d256b41f06f8a9",
     "last_sent": "2026-11-24"
+  },
+  "https://www.uber.com/in/en/blog/optimizing-ubers-agent-skills": {
+    "score": 0,
+    "fingerprint": "459bdb3aaf527531c6f4199ec6c2beed298d864f49a37a02e029bc8e471a8e2e",
+    "last_sent": "2026-11-25"
+  },
+  "https://arxiv.org/abs/2611.31284": {
+    "score": 0,
+    "fingerprint": "fe7e46ab102df6aeda1f9c4001637d88047f18cd147aebec914ec20970058b45",
+    "last_sent": "2026-11-25"
   }
 }
