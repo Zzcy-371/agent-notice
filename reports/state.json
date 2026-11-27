@@ -5,9 +5,9 @@
     "last_sent": "2026-11-22"
   },
   "https://github.com/affaan-m/ECC": {
-    "score": 291082,
+    "score": 311464,
     "fingerprint": "c99d4b8fb94066db76224fc1bc8dfb91c2be0930dd828f63cd147e90a7e36bf7",
-    "last_sent": "2026-10-28"
+    "last_sent": "2026-11-27"
   },
   "https://github.com/NousResearch/hermes-agent": {
     "score": 265758,
@@ -2241,5 +2241,20 @@
     "score": 0,
     "fingerprint": "cb996345f744b629eda23c6ec17e078a53100092c276c7561c7bc3b04720b501",
     "last_sent": "2026-11-26"
+  },
+  "https://github.com/tony-stark2025/piton": {
+    "score": 0,
+    "fingerprint": "c99fb20bd3300c0a29c51f72b8081e2e0c2c5283c5e0db42dda0c259c33111d7",
+    "last_sent": "2026-11-27"
+  },
+  "https://arxiv.org/abs/2611.33394": {
+    "score": 0,
+    "fingerprint": "9d60e4e93b1b924bf8404418396be305490e4151dcd34680beec1da59e6a2028",
+    "last_sent": "2026-11-27"
+  },
+  "https://arxiv.org/abs/2611.33402": {
+    "score": 0,
+    "fingerprint": "ca0612af2451d0ab10cec266118159f47db10a2beacd95f84db63c07b2d38c9c",
+    "last_sent": "2026-11-27"
   }
 }
