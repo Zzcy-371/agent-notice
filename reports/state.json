@@ -19,9 +19,9 @@
     "fingerprint": "d798dfa02ac9a672e1f160938158b1bf677c96f5a1476f27efcfe40eb753eae2"
   },
   "https://github.com/anomalyco/opencode": {
-    "score": 222825,
+    "score": 229673,
     "fingerprint": "e022a953fa38f1ea4d78f31e67ca1b559f05ca52f46d03f89e55419c8b0f95d7",
-    "last_sent": "2026-10-29"
+    "last_sent": "2026-11-28"
   },
   "https://github.com/anthropics/skills": {
     "score": 187186,
@@ -1763,9 +1763,9 @@
     "last_sent": "2026-10-28"
   },
   "https://github.com/Leonxlnx/taste-skill": {
-    "score": 104746,
+    "score": 122430,
     "fingerprint": "a5af59560432658cd482d96c54b637b54118e36ab79110047635375ee422150c",
-    "last_sent": "2026-10-29"
+    "last_sent": "2026-11-28"
   },
   "https://arxiv.org/abs/2610.36188": {
     "score": 0,
@@ -2256,5 +2256,15 @@
     "score": 0,
     "fingerprint": "ca0612af2451d0ab10cec266118159f47db10a2beacd95f84db63c07b2d38c9c",
     "last_sent": "2026-11-27"
+  },
+  "https://news.ycombinator.com/item?id=50675433": {
+    "score": 0,
+    "fingerprint": "bd8d2e05f54e948e2fa509580ddc1ec04c45652817bbf462a0a7d16ba7d78136",
+    "last_sent": "2026-11-28"
+  },
+  "https://lefttosolve.com/": {
+    "score": 0,
+    "fingerprint": "c7960569313bcd885d3d81e5de968b231953323f8e2dc0f0fcda4d9fe7f53e7a",
+    "last_sent": "2026-11-28"
   }
 }
